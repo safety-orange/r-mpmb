@@ -34,4 +34,5 @@
 7. ???
 8. Profit!
 
-* Note that you can also download a script file and then import it by navigating to it
+* Note that you can also download the script file by right-clicking a 'download' link below and selecting "Save Link As"
+* **Mac users**: you will have to download the script file, as it is not possible to open files from URL in the "Open" finder dialog
