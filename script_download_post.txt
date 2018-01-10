@@ -111,7 +111,7 @@ Zendikar | 2016/04/27 | [View](https://goo.gl/8CjGk1) | [Download](https://goo.g
 
 ***All the above materials has been thoroughly vetted.    
 This is not true for what comes below!    
-Quality may very, depending on who wrote the code.***
+Quality will vary, depending on who wrote the code and the original material.***
 
 &nbsp;
 
@@ -120,63 +120,63 @@ Quality may very, depending on who wrote the code.***
 
 Resource | GitHub | Direct Code | Code by | Original
 ---|:---:|:---:|:---:|---
-Dhampir [DanDwiki] | [View](https://goo.gl/i4iik7) | [Download](https://goo.gl/ZvEaMH)
-Kitsune [Marshall Miller] | [View](https://goo.gl/7aGZz1) | [Download](https://goo.gl/v9oGqT)
-Merfolk [Sarixis] | [View](https://goo.gl/vSk8gR) | [Download](https://goo.gl/ykUShv)
-Shade |
-Sojourner Dwarf [Goodman Games] | [View](https://goo.gl/XJg7sQ) | [Download](https://goo.gl/J1AaYm)
-Soulbound [Greypilgrim333] | [View](https://goo.gl/sNqSD5) | [Download](https://goo.gl/vRi75A)
-Half-Elf (Fey Step) [Mike] | [View](https://goo.gl/soU1Kz) | [Download](https://goo.gl/Dzgh5w)
+Dhampir* | [View](https://goo.gl/i4iik7) | [Download](https://goo.gl/ZvEaMH) | [MPMB](https://goo.gl/4aJ4Xd) | [DanDwiki](https://www.dandwiki.com/wiki/Dhampir_(5e_Race\))*
+Kitsune | [View](https://goo.gl/7aGZz1) | [Download](https://goo.gl/v9oGqT) | Murray & [MPMB](https://goo.gl/4aJ4Xd) | [DMs Guild: Marshall Miller](https://www.dmsguild.com/product/171361/)
+Merfolk | [View](https://goo.gl/vSk8gR) | [Download](https://goo.gl/ykUShv) | Sarixis | Homebrew by Sarixis
+Shade | [View](https://goo.gl/D4DTdW) | [Download](https://goo.gl/LBPKYh) | [MPMB](https://goo.gl/4aJ4Xd) | [DMs Guild: Jeremy Forbing](https://www.dmsguild.com/product/208791/)
+Sojourner Dwarf | [View](https://goo.gl/XJg7sQ) | [Download](https://goo.gl/J1AaYm) | James B | [DMs Guild: Goodman Games](https://www.dmsguild.com/product/132657/)
+Soulbound | [View](https://goo.gl/sNqSD5) | [Download](https://goo.gl/vRi75A) | [MPMB](https://goo.gl/4aJ4Xd) | [/u/Greypilgrim333 on /r/UnearthedArcana](https://www.reddit.com/4wsioc/)
+Half-Elf (Fey Step) | [View](https://goo.gl/soU1Kz) | [Download](https://goo.gl/Dzgh5w) | Mike | Homebrew by Mike
 
 ##Classes
 
 Resource | GitHub | Direct Code | Code by | Original
 ---|:---:|:---:|:---:|---
-Alchemist [DawnforgeCast] | [View](https://goo.gl/N4JUdU) | [Download](https://goo.gl/oCUy9E)
-Blood Hunter 2.0 [Matthew Mercer] | [View](https://goo.gl/WYyYGs) | [Download](https://goo.gl/8mF6H9)
-Shaman [Michael Wolf] | [View](https://goo.gl/htCfNg) | [Download](https://goo.gl/jyWuwm)
-Witch [Zarieth] | [View](https://goo.gl/7cvcYf) | [Download](https://goo.gl/5JoRr7)
+Alchemist | [View](https://goo.gl/N4JUdU) | [Download](https://goo.gl/oCUy9E) | Erik J | [DawnforgedCast](https://dawnforgedcast.myshopify.com/products/5th-edition-alchemist-class)
+Blood Hunter 2.0 | [View](https://goo.gl/WYyYGs) | [Download](https://goo.gl/8mF6H9) | Darryl C & [MPMB](https://goo.gl/4aJ4Xd) | [DMs Guild: Matthew Mercer](http://www.dmsguild.com/product/170777/)
+Shaman | [View](https://goo.gl/htCfNg) | [Download](https://goo.gl/jyWuwm) | Derek, /u/Fourleafclov, [MPMB](https://goo.gl/4aJ4Xd) | [DMs Guild: Michael Wolf](https://www.dmsguild.com/product/170851/)
+Witch | [View](https://goo.gl/7cvcYf) | [Download](https://goo.gl/5JoRr7) | [MPMB](https://goo.gl/4aJ4Xd) | [/u/Zarieth on /r/UnearthedArcana](https://www.reddit.com/5dtd1x/)
 
 ##Subclasses
 
 Resource | GitHub | Direct Code | Code by | Original
 ---|:---:|:---:|:---:|---
 **Bard** |
-College of Mourning [Derek] | [View](https://goo.gl/jtr2Fy) | [Download](https://goo.gl/Na2fvN)
-College of the Maestro [Matthew Mercer] | [View](https://goo.gl/MDXjCH) | [Download](https://goo.gl/JtCgty)
+College of Mourning | [View](https://goo.gl/jtr2Fy) | [Download](https://goo.gl/Na2fvN) | Derek | Homebrew by Derek
+College of the Maestro v1.2 | [View](https://goo.gl/MDXjCH) | [Download](https://goo.gl/JtCgty) | [MPMB](https://goo.gl/4aJ4Xd) | [DMs Guild: Matthew Mercer](https://www.dmsguild.com/product/183630/)
 **Cleric** |
-Fate Domain [Cody Faulk] | [View](https://goo.gl/oumKn4) | [Download](https://goo.gl/AA6wHx)
+Fate Domain | [View](https://goo.gl/oumKn4) | [Download](https://goo.gl/AA6wHx) | [MPMB](https://goo.gl/4aJ4Xd) | [DMs Guild: Cody Faulk](https://www.dmsguild.com/product/194789/)
 **Druid** |
-Circle of the Deathbloom |
+Circle of the Deathbloom | [View](https://goo.gl/txXyKn) | [Download](https://goo.gl/9SuZMd) | [MPMB](https://goo.gl/4aJ4Xd) | [DMs Guild: Stray Chow Chow](https://www.dmsguild.com/product/173273/)
 **Fighter** |
-Alchemical Archer [by Zyndr] | [View](https://goo.gl/Kqzyc8) | [Download](https://goo.gl/BRUvKz)
-Amazon [Caio Sandy] | [View](https://goo.gl/2Kfdw5) | [Download](https://goo.gl/yYXyVt)
-Brute |
-Gunslinger [Matthew Mercer] | [View](https://goo.gl/qgmuph) | [Download](https://goo.gl/p4oeuQ)
-Pact Knight [by Wizzard] | [View](https://goo.gl/ehCyMN) | [Download](https://goo.gl/vCNS3Q)
-Tactician [Joshua Bramlett] | [View](https://goo.gl/2XW6Xt) | [Download](https://goo.gl/4YRUS8)
+Alchemical Archer | [View](https://goo.gl/Kqzyc8) | [Download](https://goo.gl/BRUvKz) | Zyndr  | Homebrew by Zyndr 
+Amazon | [View](https://goo.gl/2Kfdw5) | [Download](https://goo.gl/yYXyVt) | Galim & [MPMB](https://goo.gl/4aJ4Xd) | [DMs Guild: Caio Sandy](https://www.dmsguild.com/product/171865/)
+Brute | [View](https://goo.gl/6CmuJz) | [Download](https://goo.gl/CYnYv9) | [MPMB](https://goo.gl/4aJ4Xd) | [Submortimer on GiantITP](http://www.giantitp.com/forums/showthread.php?426879)
+Gunslinger v1.3 | [View](https://goo.gl/qgmuph) | [Download](https://goo.gl/p4oeuQ) | [MPMB](https://goo.gl/4aJ4Xd) | [DMs Guild: Matthew Mercer](https://www.dmsguild.com/product/170778/)
+Pact Knight | [View](https://goo.gl/ehCyMN) | [Download](https://goo.gl/vCNS3Q) | Wizzard | Homebrew by Wizzard
+Tactician | [View](https://goo.gl/2XW6Xt) | [Download](https://goo.gl/4YRUS8) | Bryce C & [MPMB](https://goo.gl/4aJ4Xd) | [DMs Guild: Joshua Bramlett](https://www.dmsguild.com/product/216366/)
 **Monk** |
-Swordsage [by Wizzard] | [View](https://goo.gl/sFeRqg) | [Download](https://goo.gl/XC3gUL)
-Way of the Four Elements, Remastered [SpiketailDrake] | [View](https://goo.gl/sV1Pf2) | [Download](https://goo.gl/Spjme5)
-Way of the Jedi [SpiketailDrake] | [View](https://goo.gl/V3xjtF) | [Download](https://goo.gl/W8D85h)
+Swordsage | [View](https://goo.gl/sFeRqg) | [Download](https://goo.gl/XC3gUL) | Wizzard | Homebrew by Wizzard
+Way of the Four Elements, Remastered | [View](https://goo.gl/sV1Pf2) | [Download](https://goo.gl/Spjme5) | /u/AKA_Sketch & [MPMB](https://goo.gl/4aJ4Xd) | [/u/IrishBandit, based on /u/SpiketailDrake](https://drive.google.com/file/d/0B5ttoyMfsaC7dzJ2SVdKNXhxVnM/view)
+Way of the Jedi v2.2 | [View](https://goo.gl/V3xjtF) | [Download](https://goo.gl/W8D85h) | Lily K & [MPMB](https://goo.gl/4aJ4Xd) | [/u/SpiketailDrake on /r/UnearthedArcana](https://www.reddit.com/4b41ro/)
 **Paladin** |
-Oath of Unyielding [BoltNine] | [View](https://goo.gl/FYd1fh) | [Download](https://goo.gl/zi3YMN)
-Oath of Weave [Jeremy Forbing & Leo David Pakirdjian] | [View](https://goo.gl/cSPcUX) | [Download](https://goo.gl/GdB6d5)
+Oath of Unyielding | [View](https://goo.gl/FYd1fh) | [Download](https://goo.gl/zi3YMN) | Howard | [BoltNine Homebrew](https://drive.google.com/drive/folders/0B2UyuHLUuCjxRmlXWExXTGR1eTA)
+Oath of Weave | [View](https://goo.gl/cSPcUX) | [Download](https://goo.gl/GdB6d5) | [MPMB](https://goo.gl/4aJ4Xd) | [DMs Guild: Jeremy Forbing & Leo David Pakirdjian](https://www.dmsguild.com/product/211385/)
 **Ranger** |
-Corsair [by Wizzard] | [View](https://goo.gl/dbS8UN) | [Download](https://goo.gl/RSuT8x)
+Corsair | [View](https://goo.gl/dbS8UN) | [Download](https://goo.gl/RSuT8x) | Wizzard | Homebrew by Wizzard
 **Ranger** |
-Field Support [by Monty] | [View](https://goo.gl/WabT8S) | [Download](https://goo.gl/JVKRjr)
-Spellwarp Sniper [by Subpar77] | [View](https://goo.gl/gY2RSq) | [Download](https://goo.gl/YLRx6n)
-Thieving Magpie [Firebringeraxel] | [View](https://goo.gl/ZUJZef) | [Download](https://goo.gl/FJUxiM)
+Field Support | [View](https://goo.gl/WabT8S) | [Download](https://goo.gl/JVKRjr) | Monty | [Homebrew by Monty](https://www.dropbox.com/s/49lcya9a11xmoi1/Field%20Support%2C%20Roguish%20Archetype.pdf?dl=0)
+Spellwarp Sniper | [View](https://goo.gl/gY2RSq) | [Download](https://goo.gl/YLRx6n) | Subpar77 | Homebrew by Subpar77
+Thieving Magpie | [View](https://goo.gl/ZUJZef) | [Download](https://goo.gl/FJUxiM) | TwoHeadedBoy | [Homebrew by Firebringeraxel](http://firebringeraxels-junk.tumblr.com/post/162875990845/the-thieving-magpie-a-rogue-that-works-in-unison)
 **Sorcerer** |
-Blood of the Primordials [by Cain] | [View](https://goo.gl/CUwyYx) | [Download](https://goo.gl/qTLUW5)
-Spellfire Channeler [Jeremy Forbing & Leo David Pakirdjian] | [View](https://goo.gl/dkKmcE) | [Download](https://goo.gl/dAv4zx)
+Blood of the Primordials | [View](https://goo.gl/CUwyYx) | [Download](https://goo.gl/qTLUW5) | Cain | [Homebrew by Cain](http://bit.ly/2kjur6M)
+Spellfire Channeler* | [View](https://goo.gl/dkKmcE) | [Download](https://goo.gl/dAv4zx) | [MPMB](https://goo.gl/4aJ4Xd) | [DMs Guild: Jeremy Forbing & Leo David Pakirdjian](https://www.dmsguild.com/product/211385/)
 **Warlock** |
-Black Powder [by Wizzard] | [View](https://goo.gl/EiZ9w3) | [Download](https://goo.gl/EBzvkK)
-Inner Darkness [by Wizzard] | [View](https://goo.gl/FrKHtU) | [Download](https://goo.gl/ptJw8x)
-the Big, Bad Wolf [A.T. Craven] | [View](https://goo.gl/RxqtZp) | [Download](https://goo.gl/2YW9rC)
+Black Powder | [View](https://goo.gl/EiZ9w3) | [Download](https://goo.gl/EBzvkK) | Wizzard | Homebrew by Wizzard
+Inner Darkness | [View](https://goo.gl/FrKHtU) | [Download](https://goo.gl/ptJw8x) | Wizzard | Homebrew by Wizzard
+the Big, Bad Wolf | [View](https://goo.gl/RxqtZp) | [Download](https://goo.gl/2YW9rC) | [MPMB](https://goo.gl/4aJ4Xd) | [DMs Guild: A.T. Craven](https://www.dmsguild.com/product/201431/)
 **Wizard** |
-Spell-Stained |
+Spell-Stained | [View](https://goo.gl/hNwhfF) | [Download](https://goo.gl/AatGJ7) | [MPMB](https://goo.gl/4aJ4Xd) | Homebrew by Euphonetics
 
 ##Backgrounds
 
@@ -192,8 +192,10 @@ Refugee | [View](https://goo.gl/qM9a7w) | [Download](https://goo.gl/Dk24P3) | Ja
 
 Resource | GitHub | Direct Code | Code by | Original
 ---|:---:|:---:|:---:|---
-Heartbreaker [Derek] | [View](https://goo.gl/8GKAU4) | [Download](https://goo.gl/JBg9am)
+Heartbreaker | [View](https://goo.gl/8GKAU4) | [Download](https://goo.gl/JBg9am) | Derek | Homebrew by Derek
 
 &nbsp;
 
 Note that dates are written according to the ISO-standards, as year/month/day
+
+*This content is very unbalancing for the game, so beware!
