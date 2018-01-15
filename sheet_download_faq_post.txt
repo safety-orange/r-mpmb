@@ -39,4 +39,4 @@
 8. Profit!
 
 * Note that you can also download the script file by right-clicking a 'download' link below and selecting "Save Link As"
-* **Mac & Windows 7 users**: you will have to download the script file, as it is not possible to open files from URL in the "Open" finder dialog
+* **Mac users**: you will have to download the script file, as it is not possible to open files from URL in the "Open" finder dialog
