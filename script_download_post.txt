@@ -109,13 +109,14 @@ Zendikar | 2016/04/27 | [View](https://goo.gl/8CjGk1) | [Download](https://goo.g
 
 &nbsp;
 
+&nbsp;
+
+#Third Party
+
 ***All the above materials has been thoroughly vetted.    
 This is not true for what comes below!    
 Quality will vary, depending on who wrote the code and the original material.***
 
-&nbsp;
-
-#Third Party
 ##Races
 
 Resource | GitHub | Direct Code | Code by | Original
@@ -141,41 +142,58 @@ Witch | [View](https://goo.gl/7cvcYf) | [Download](https://goo.gl/5JoRr7) | [MPM
 
 Resource | GitHub | Direct Code | Code by | Original
 ---|:---:|:---:|:---:|---
-**Bard** |
+|
+| **~~Bard~~**
 College of Mourning | [View](https://goo.gl/jtr2Fy) | [Download](https://goo.gl/Na2fvN) | Derek | Homebrew by Derek
 College of the Maestro v1.2 | [View](https://goo.gl/MDXjCH) | [Download](https://goo.gl/JtCgty) | [MPMB](https://goo.gl/4aJ4Xd) | [DMs Guild: Matthew Mercer](https://www.dmsguild.com/product/183630/)
-**Cleric** |
+|
+| **~~Cleric~~**
 Fate Domain | [View](https://goo.gl/oumKn4) | [Download](https://goo.gl/AA6wHx) | [MPMB](https://goo.gl/4aJ4Xd) | [DMs Guild: Cody Faulk](https://www.dmsguild.com/product/194789/)
-**Druid** |
+|
+|
+| **~~Druid~~**
 Circle of the Deathbloom | [View](https://goo.gl/txXyKn) | [Download](https://goo.gl/9SuZMd) | [MPMB](https://goo.gl/4aJ4Xd) | [DMs Guild: Stray Chow Chow](https://www.dmsguild.com/product/173273/)
-**Fighter** |
+|
+|
+| **~~Fighter~~**
 Alchemical Archer | [View](https://goo.gl/Kqzyc8) | [Download](https://goo.gl/BRUvKz) | Zyndr  | Homebrew by Zyndr 
 Amazon | [View](https://goo.gl/2Kfdw5) | [Download](https://goo.gl/yYXyVt) | Galim & [MPMB](https://goo.gl/4aJ4Xd) | [DMs Guild: Caio Sandy](https://www.dmsguild.com/product/171865/)
 Brute | [View](https://goo.gl/6CmuJz) | [Download](https://goo.gl/CYnYv9) | [MPMB](https://goo.gl/4aJ4Xd) | [Submortimer on GiantITP](http://www.giantitp.com/forums/showthread.php?426879)
 Gunslinger v1.3 | [View](https://goo.gl/qgmuph) | [Download](https://goo.gl/p4oeuQ) | [MPMB](https://goo.gl/4aJ4Xd) | [DMs Guild: Matthew Mercer](https://www.dmsguild.com/product/170778/)
 Pact Knight | [View](https://goo.gl/ehCyMN) | [Download](https://goo.gl/vCNS3Q) | Wizzard | Homebrew by Wizzard
 Tactician | [View](https://goo.gl/2XW6Xt) | [Download](https://goo.gl/4YRUS8) | Bryce C & [MPMB](https://goo.gl/4aJ4Xd) | [DMs Guild: Joshua Bramlett](https://www.dmsguild.com/product/216366/)
-**Monk** |
+|
+| **~~Monk~~**
 Swordsage | [View](https://goo.gl/sFeRqg) | [Download](https://goo.gl/XC3gUL) | Wizzard | Homebrew by Wizzard
 Way of the Four Elements, Remastered | [View](https://goo.gl/sV1Pf2) | [Download](https://goo.gl/Spjme5) | /u/AKA_Sketch & [MPMB](https://goo.gl/4aJ4Xd) | [/u/IrishBandit, based on /u/SpiketailDrake](https://drive.google.com/file/d/0B5ttoyMfsaC7dzJ2SVdKNXhxVnM/view)
 Way of the Jedi v2.2 | [View](https://goo.gl/V3xjtF) | [Download](https://goo.gl/W8D85h) | Lily K & [MPMB](https://goo.gl/4aJ4Xd) | [/u/SpiketailDrake on /r/UnearthedArcana](https://www.reddit.com/4b41ro/)
-**Paladin** |
+|
+|
+| **~~Paladin~~**
 Oath of Unyielding | [View](https://goo.gl/FYd1fh) | [Download](https://goo.gl/zi3YMN) | Howard | [BoltNine Homebrew](https://drive.google.com/drive/folders/0B2UyuHLUuCjxRmlXWExXTGR1eTA)
 Oath of Weave | [View](https://goo.gl/cSPcUX) | [Download](https://goo.gl/GdB6d5) | [MPMB](https://goo.gl/4aJ4Xd) | [DMs Guild: Jeremy Forbing & Leo David Pakirdjian](https://www.dmsguild.com/product/211385/)
-**Ranger** |
+|
+| **~~Ranger~~**
 Corsair | [View](https://goo.gl/dbS8UN) | [Download](https://goo.gl/RSuT8x) | Wizzard | Homebrew by Wizzard
-**Ranger** |
+|
+|
+| **~~Rogue~~**
 Field Support | [View](https://goo.gl/WabT8S) | [Download](https://goo.gl/JVKRjr) | Monty | [Homebrew by Monty](https://www.dropbox.com/s/49lcya9a11xmoi1/Field%20Support%2C%20Roguish%20Archetype.pdf?dl=0)
 Spellwarp Sniper | [View](https://goo.gl/gY2RSq) | [Download](https://goo.gl/YLRx6n) | Subpar77 | Homebrew by Subpar77
 Thieving Magpie | [View](https://goo.gl/ZUJZef) | [Download](https://goo.gl/FJUxiM) | TwoHeadedBoy | [Homebrew by Firebringeraxel](http://firebringeraxels-junk.tumblr.com/post/162875990845/the-thieving-magpie-a-rogue-that-works-in-unison)
-**Sorcerer** |
+|
+|
+| **~~Sorcerer~~**
 Blood of the Primordials | [View](https://goo.gl/CUwyYx) | [Download](https://goo.gl/qTLUW5) | Cain | [Homebrew by Cain](http://bit.ly/2kjur6M)
 Spellfire Channeler* | [View](https://goo.gl/dkKmcE) | [Download](https://goo.gl/dAv4zx) | [MPMB](https://goo.gl/4aJ4Xd) | [DMs Guild: Jeremy Forbing & Leo David Pakirdjian](https://www.dmsguild.com/product/211385/)
-**Warlock** |
+|
+| **~~Warlock~~**
 Black Powder | [View](https://goo.gl/EiZ9w3) | [Download](https://goo.gl/EBzvkK) | Wizzard | Homebrew by Wizzard
 Inner Darkness | [View](https://goo.gl/FrKHtU) | [Download](https://goo.gl/ptJw8x) | Wizzard | Homebrew by Wizzard
 the Big, Bad Wolf | [View](https://goo.gl/RxqtZp) | [Download](https://goo.gl/2YW9rC) | [MPMB](https://goo.gl/4aJ4Xd) | [DMs Guild: A.T. Craven](https://www.dmsguild.com/product/201431/)
-**Wizard** |
+|
+|
+| **~~Wizard~~**
 Spell-Stained | [View](https://goo.gl/hNwhfF) | [Download](https://goo.gl/AatGJ7) | [MPMB](https://goo.gl/4aJ4Xd) | Homebrew by Euphonetics
 
 ##Backgrounds
