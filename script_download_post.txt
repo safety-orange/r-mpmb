@@ -24,7 +24,8 @@ Resource | GitHub | Direct Code | Minified
 **All Official WotC 5e Content** | [View](https://goo.gl/szfucp) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_published.js) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_published.min.js)
 **All Unearthed Arcana** | [View](https://goo.gl/xJvGR8) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_unearthed_arcana.js) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_unearthed_arcana.min.js)
 **All Scripts Combined (Official + UA)** | [View](https://goo.gl/7V9Ade) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_pub%2BUA.js) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_pub%2BUA.min.js)
-**Blood Hunter 2.0** [Matthew Mercer] | [View](https://goo.gl/WYyYGs) | [Download][blood hunter]
+Blood Hunter v2.0 [Matthew Mercer] | [View][bhview] | [Download][bh] |
+Fighter - Gunslinger v1.3 [Matthew Mercer] | [View][gview] | [Download][g] |
 
 &nbsp;
 
@@ -113,15 +114,17 @@ Zendikar | 2016/04/27 | [View](https://goo.gl/8CjGk1) | [Download](https://raw.g
 
 #Third Party
 
-***All the above materials has been thoroughly vetted.    
+*All the above materials has been thoroughly vetted.    
 This is not true for what comes below!    
-Quality will vary, depending on who wrote the code and the original material.***
+Quality will vary, depending on who wrote the code and the original material.*
+
+**Content marked with an asterisk \* is especially unbalancing for the game, so beware!**
 
 ##Races
 
 Resource | GitHub | Direct Code | Code by | Original
 ---|:---:|:---:|:---:|---
-Dhampir* | [View](https://goo.gl/i4iik7) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Races/Dhampir%20%5BDanDwiki%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [DanDwiki](https://goo.gl/8MVL8j)*
+Dhampir* | [View](https://goo.gl/i4iik7) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Races/Dhampir%20%5BDanDwiki%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [DanDwiki*](https://goo.gl/8MVL8j "Basically everything from DanDwiki is atrociously unbalanced!")
 Kitsune | [View](https://goo.gl/7aGZz1) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Races/Kitsune%20%5BMarshall%20Miller's%20work%2C%20transcribed%20by%20Murray%5D.js) | Murray & [MPMB] | [DMs Guild: Marshall Miller](https://dmsguild.com/product/171361/)
 Merfolk | [View](https://goo.gl/vSk8gR) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Races/Merfolk%2C%20with%204%20subraces%20%5Bby%20Sarixis%5D.js) | Sarixis | Homebrew by Sarixis
 Shade | [View](https://goo.gl/D4DTdW) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Races/Shade%2C%20with%202%20subraces%20%5BJeremy%20Forbing's%20work%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [DMs Guild: Jeremy Forbing](https://dmsguild.com/product/208791/)
@@ -134,7 +137,7 @@ Half-Elf (Fey Step) | [View](https://goo.gl/soU1Kz) | [Download](https://raw.git
 Resource | GitHub | Direct Code | Code by | Original
 ---|:---:|:---:|:---:|---
 Alchemist | [View](https://goo.gl/N4JUdU) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Classes/Alchemist%20[DawnforgedCast's%20work%2C%20transcribed%20by%20Erik%20J.%20%26%20u_pbfarmer]%20(incomplete\).js) | Erik J | [DawnforgedCast](https://goo.gl/KfZHnM)
-Blood Hunter 2.0 | [View](https://goo.gl/WYyYGs) | [Download][blood hunter] | Darryl C & [MPMB] | [DMs Guild: Matthew Mercer](https://dmsguild.com/product/170777/)
+Blood Hunter v2.0 | [View][bhview] | [Download][bh] | Darryl C & [MPMB] | [DMs Guild: Matthew Mercer](https://dmsguild.com/product/170777/)
 Shaman | [View](https://goo.gl/htCfNg) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Classes/Shaman%20%5BMichael%20Wolf's%20work%2C%20transcribed%20by%20Derek%2C%20Fourleafclov%2C%20MPMB%5D.js) | Derek, /u/Fourleafclov, [MPMB] | [DMs Guild: Michael Wolf](https://dmsguild.com/product/170851/)
 Witch | [View](https://goo.gl/7cvcYf) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Classes/Witch%20%5BZarieth's%20work%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [/u/Zarieth on /r/UnearthedArcana](https://reddit.com/5dtd1x/)
 
@@ -159,7 +162,7 @@ Circle of the Deathbloom | [View](https://goo.gl/txXyKn) | [Download](https://ra
 Alchemical Archer | [View](https://goo.gl/Kqzyc8) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Fighter%20-%20Alchemical%20Archer%20%5Bby%20Zyndr%5D.js) | Zyndr  | Homebrew by Zyndr 
 Amazon | [View](https://goo.gl/2Kfdw5) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Fighter%20-%20Amazon%20%5BCaio%20Sandy's%20work%2C%20transcribed%20by%20Galim%20%26%20MPMB%5D.js) | Galim & [MPMB] | [DMs Guild: Caio Sandy](https://dmsguild.com/product/171865/)
 Brute | [View](https://goo.gl/6CmuJz) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Fighter%20-%20Brute%20%5BSubmortimer's%20work%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [Submortimer on GiantITP](https://goo.gl/Z2id3K)
-Gunslinger v1.3 | [View](https://goo.gl/qgmuph) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Fighter%20-%20Gunslinger%20%5BMatthew%20Mercer's%20work%2C%20transcribed%20by%20SoilentBrad%20%26%20MPMB%5D.js) | [MPMB] | [DMs Guild: Matthew Mercer](https://dmsguild.com/product/170778/)
+Gunslinger v1.3 | [View][gview] | [Download][g] | [MPMB] | [DMs Guild: Matthew Mercer](https://dmsguild.com/product/170778/)
 Pact Knight | [View](https://goo.gl/ehCyMN) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Fighter%20-%20Pact%20Knight%20%5Bby%20Wizzard%5D.js) | Wizzard | Homebrew by Wizzard
 Tactician | [View](https://goo.gl/2XW6Xt) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Fighter%20-%20Tactician%20%5BJoshua%20Bramlett's%20work%2C%20transcribed%20by%20Vypir%20%26%20MPMB%5D.js) | Bryce C & [MPMB] | [DMs Guild: Joshua Bramlett](https://dmsguild.com/product/216366/)
 |
@@ -171,7 +174,7 @@ Way of the Jedi v2.2 | [View](https://goo.gl/V3xjtF) | [Download](https://raw.gi
 |
 | **~~Paladin~~**
 Oath of Unyielding | [View](https://goo.gl/FYd1fh) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Paladin%20-%20Oath%20of%20Unyielding%20%5BBoltNine's%20work%2C%20transcribed%20by%20Howard%5D.js) | Howard | [BoltNine Homebrew](https://goo.gl/cbEXtr)
-Oath of Weave | [View](https://goo.gl/cSPcUX) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Paladin%20-%20Oath%20of%20Weave%20%5BDMs%20Guild%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [DMs Guild: Jeremy Forbing & Leo David Pakirdjian](https://dmsguild.com/product/211385/)
+Oath of Weave* | [View](https://goo.gl/cSPcUX) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Paladin%20-%20Oath%20of%20Weave%20%5BDMs%20Guild%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [DMs Guild: Jeremy Forbing & Leo David Pakirdjian*][jflp]
 |
 | **~~Ranger~~**
 Corsair | [View](https://goo.gl/dbS8UN) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Ranger%20-%20Corsair%20%5Bby%20Wizzard%5D.js) | Wizzard | Homebrew by Wizzard
@@ -185,7 +188,7 @@ Thieving Magpie | [View](https://goo.gl/ZUJZef) | [Download](https://raw.githubu
 |
 | **~~Sorcerer~~**
 Blood of the Primordials | [View](https://goo.gl/CUwyYx) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Sorcerer%20-%20Blood%20of%20the%20Primordials%20%5Bby%20Cain%5D.js) | Cain | [Homebrew by Cain](https://bit.ly/2kjur6M)
-Spellfire Channeler* | [View](https://goo.gl/dkKmcE) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Sorcerer%20-%20Spellfire%20Channeler%20%5BDMs%20Guild%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [DMs Guild: Jeremy Forbing & Leo David Pakirdjian](https://dmsguild.com/product/211385/)
+Spellfire Channeler* | [View](https://goo.gl/dkKmcE) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Sorcerer%20-%20Spellfire%20Channeler%20%5BDMs%20Guild%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [DMs Guild: Jeremy Forbing & Leo David Pakirdjian*][jflp]
 |
 | **~~Warlock~~**
 Black Powder | [View](https://goo.gl/EiZ9w3) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Warlock%20-%20Black%20Powder%20%5Bby%20Wizzard%5D.js) | Wizzard | Homebrew by Wizzard
@@ -215,9 +218,11 @@ Heartbreaker | [View](https://goo.gl/8GKAU4) | [Download](https://raw.githubuser
 
 &nbsp;
 
-Note that dates are written according to the ISO-standards, as year/month/day
-
-*This content is very unbalancing for the game, so beware!
+Note that dates are written using the ISO-standard year/month/day
 
 [MPMB]: https://goo.gl/4aJ4Xd
-[blood hunter]: https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Classes/Blood%20Hunter%20%5BMatthew%20Mercer's%20work%2C%20transcribed%20by%20Darryl%20%26%20MPMB%5D.js
+[bhview]: https://goo.gl/WYyYGs
+[bh]: https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Classes/Blood%20Hunter%20%5BMatthew%20Mercer's%20work%2C%20transcribed%20by%20Darryl%20%26%20MPMB%5D.js
+[gview]: https://goo.gl/qgmuph
+[g]: https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Fighter%20-%20Gunslinger%20%5BMatthew%20Mercer's%20work%2C%20transcribed%20by%20SoilentBrad%20%26%20MPMB%5D.js
+[jflp]: https://dmsguild.com/product/211385/ "'Forgotten Realms Archetypes II: Champions of Mystery' is not a balanced product!"
