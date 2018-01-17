@@ -183,8 +183,8 @@ Corsair | [View](https://goo.gl/dbS8UN) | [Download](https://raw.githubuserconte
 | **~~Rogue~~**
 Field Support | [View](https://goo.gl/WabT8S) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Rogue%20-%20Field%20Support%20%5Bby%20Monty%5D.js) | Monty | [Homebrew by Monty](https://goo.gl/xcd5YC)
 Spellwarp Sniper | [View](https://goo.gl/gY2RSq) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Rogue%20-%20Spellwarp%20Sniper%20%5Bby%20Subpar77%5D.js) | Subpar77 | Homebrew by Subpar77
+Shadowdancer | [View](https://goo.gl/6eu2vY) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Rogue%20-%20Shadowdancer%20%5Bincrediblehulf's%20work%2C%20transcribed%20by%20Layton%20%26%20MPMB%5D.js) | Layton & [MPMB] | [/u/incrediblehulf on /r/UnearthedArcana](https://reddit.com/44tph8/)
 Thieving Magpie | [View](https://goo.gl/ZUJZef) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Rogue%20-%20Thieving%20Magpie%20%5BFirebringeraxel's%20work%2C%20transcribed%20by%20TwoHeadedBoy%5D.js) | TwoHeadedBoy | [Homebrew by Firebringeraxel](https://goo.gl/hgK5HG)
-|
 |
 | **~~Sorcerer~~**
 Blood of the Primordials | [View](https://goo.gl/CUwyYx) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Sorcerer%20-%20Blood%20of%20the%20Primordials%20%5Bby%20Cain%5D.js) | Cain | [Homebrew by Cain](https://bit.ly/2kjur6M)
