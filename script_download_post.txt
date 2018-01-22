@@ -137,7 +137,7 @@ Half-Elf (Fey Step) | [View](https://goo.gl/soU1Kz) | [Download](https://raw.git
 
 Resource | GitHub | Direct Code | Code by | Original
 ---|:---:|:---:|:---:|---
-Alchemist | [View](https://goo.gl/Ec8DnW) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Classes/Alchemist%20[DawnforgedCast's%20work%2C%20transcribed%20by%20PbFarmer]%20(incomplete\).js) | /u/PbFarmer | [DawnforgedCast](https://goo.gl/KfZHnM)
+Alchemist | [View](https://goo.gl/mS3Kan) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Classes/Alchemist%20[DawnforgedCast's%20work%2C%20transcribed%20by%20PbFarmer]%20(incomplete\).js) | /u/PbFarmer | [DawnforgedCast](https://goo.gl/KfZHnM)
 Blood Hunter v2.0 | [View][bhview] | [Download][bh] | Darryl C & [MPMB] | [DMs Guild: Matthew Mercer](https://dmsguild.com/product/170777/)
 Shaman | [View](https://goo.gl/htCfNg) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Classes/Shaman%20%5BMichael%20Wolf's%20work%2C%20transcribed%20by%20Derek%2C%20Fourleafclov%2C%20MPMB%5D.js) | Derek, /u/Fourleafclov, [MPMB] | [DMs Guild: Michael Wolf](https://dmsguild.com/product/170851/)
 Witch | [View](https://goo.gl/7cvcYf) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Classes/Witch%20%5BZarieth's%20work%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [/u/Zarieth on /r/UnearthedArcana](https://reddit.com/5dtd1x/)
