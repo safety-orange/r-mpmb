@@ -124,6 +124,7 @@ Quality will vary, depending on who wrote the code and the original material.*
 
 Resource | GitHub | Direct Code | Code by | Original
 ---|:---:|:---:|:---:|---
+Awakened Undead | [View](https://goo.gl/uK5u8z) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Races/Awakened%20Undead%2C%205%20subraces%20%26%202%20feats%20%5BWalrock%20Homebrew's%20work%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [DMs Guild: Walrock Homebrew](https://dmsguild.com/product/222229/)
 Dhampir* | [View](https://goo.gl/i4iik7) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Races/Dhampir%20%5BDanDwiki%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [DanDwiki*](https://goo.gl/8MVL8j "Basically everything from DanDwiki is atrociously unbalanced!")
 Kitsune | [View](https://goo.gl/7aGZz1) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Races/Kitsune%20%5BMarshall%20Miller's%20work%2C%20transcribed%20by%20Murray%5D.js) | Murray & [MPMB] | [DMs Guild: Marshall Miller](https://dmsguild.com/product/171361/)
 Merfolk | [View](https://goo.gl/vSk8gR) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Races/Merfolk%2C%20with%204%20subraces%20%5Bby%20Sarixis%5D.js) | Sarixis | Homebrew by Sarixis
@@ -136,7 +137,7 @@ Half-Elf (Fey Step) | [View](https://goo.gl/soU1Kz) | [Download](https://raw.git
 
 Resource | GitHub | Direct Code | Code by | Original
 ---|:---:|:---:|:---:|---
-Alchemist | [View](https://goo.gl/N4JUdU) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Classes/Alchemist%20[DawnforgedCast's%20work%2C%20transcribed%20by%20Erik%20J.%20%26%20u_pbfarmer]%20(incomplete\).js) | Erik J | [DawnforgedCast](https://goo.gl/KfZHnM)
+Alchemist | [View](https://goo.gl/Ec8DnW) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Classes/Alchemist%20[DawnforgedCast's%20work%2C%20transcribed%20by%20PbFarmer]%20(incomplete\).js) | /u/PbFarmer | [DawnforgedCast](https://goo.gl/KfZHnM)
 Blood Hunter v2.0 | [View][bhview] | [Download][bh] | Darryl C & [MPMB] | [DMs Guild: Matthew Mercer](https://dmsguild.com/product/170777/)
 Shaman | [View](https://goo.gl/htCfNg) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Classes/Shaman%20%5BMichael%20Wolf's%20work%2C%20transcribed%20by%20Derek%2C%20Fourleafclov%2C%20MPMB%5D.js) | Derek, /u/Fourleafclov, [MPMB] | [DMs Guild: Michael Wolf](https://dmsguild.com/product/170851/)
 Witch | [View](https://goo.gl/7cvcYf) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Classes/Witch%20%5BZarieth's%20work%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [/u/Zarieth on /r/UnearthedArcana](https://reddit.com/5dtd1x/)
@@ -203,10 +204,10 @@ Spell-Stained | [View](https://goo.gl/hNwhfF) | [Download](https://raw.githubuse
 
 Resource | GitHub | Direct Code | Code by | Original
 ---|:---:|:---:|:---:|---
-Apprentice Alchemist | [View](https://goo.gl/BDN2uw) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Backgrounds/Apprentice%20Alchemist%20%5BDamion%20Meany's%20work%2C%20transcribed%20by%20Erik%20J.%5D.js) | Erik J | [DMs Guild: Damion Meany](https://dmsguild.com/product/208784/)
+Apprentice Alchemist | [View](https://goo.gl/djjgyv) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Backgrounds/Apprentice%20Alchemist%20%5BDamion%20Meany's%20work%2C%20transcribed%20by%20PbFarmer%5D.js) | /u/PbFarmer | [DMs Guild: Damion Meany](https://dmsguild.com/product/208784/)
 Half-Vistani | [View](https://goo.gl/oXDa1V) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Backgrounds/Half-Vistani%20%5BSterling%20Vermin's%20work%2C%20transcribed%20by%20Marshall%5D.js) | Marshall | [Sterling Verming Adv. Co.](https://goo.gl/U8fV6x)
 Legendary Lineage | [View](https://goo.gl/amQvu6) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Backgrounds/Legendary%20Lineage%20%5BJames%20Introcaso's%20work%2C%20transcribed%20by%20James%20Bowman%5D.js) | James B | [DMs Guild: James Introcaso](https://dmsguild.com/product/171771/)
-Primitive Tribal Member | [View](https://goo.gl/4ZCste) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Backgrounds/Primitive%20Tribal%20Member%20%5BDamion%20Meany's%20work%2C%20transcribed%20by%20Erik%20J.%5D.js) | Erik J | [DMs Guild: Damion Meany](https://dmsguild.com/product/208784/)
+Primitive Tribal Member | [View](https://goo.gl/9x1soS) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Backgrounds/Primitive%20Tribal%20Member%20%5BDamion%20Meany's%20work%2C%20transcribed%20by%20PbFarmer%5D.js) | /u/PbFarmer | [DMs Guild: Damion Meany](https://dmsguild.com/product/208784/)
 Refugee | [View](https://goo.gl/qM9a7w) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Backgrounds/Refugee%20%5BGoodman%20Games'%20work%2C%20transcribed%20by%20James%20Bowman%5D.js) | James B | [DMs Guild: Goodman Games](https://dmsguild.com/product/132657/)
 
 ##Feats
