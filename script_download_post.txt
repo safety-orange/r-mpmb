@@ -165,7 +165,9 @@ Amazon | [View](https://goo.gl/2Kfdw5) | [Download](https://raw.githubuserconten
 Brute | [View](https://goo.gl/6CmuJz) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Fighter%20-%20Brute%20%5BSubmortimer's%20work%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [Submortimer on GiantITP](https://goo.gl/Z2id3K)
 Gunslinger v1.3 | [View][gview] | [Download][g] | [MPMB] | [DMs Guild: Matthew Mercer](https://dmsguild.com/product/170778/)
 Pact Knight | [View](https://goo.gl/ehCyMN) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Fighter%20-%20Pact%20Knight%20%5Bby%20Wizzard%5D.js) | Wizzard | Homebrew by Wizzard
+Runeguard | [View](https://goo.gl/wU6dc3) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Fighter%20-%20Runeguard%20%5BDMs%20Guild%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [DMs Guild: Xanathar's Lost Notes to Everything Else](https://dmsguild.com/product/228484/)
 Tactician | [View](https://goo.gl/2XW6Xt) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Fighter%20-%20Tactician%20%5BJoshua%20Bramlett's%20work%2C%20transcribed%20by%20Vypir%20%26%20MPMB%5D.js) | Bryce C & [MPMB] | [DMs Guild: Joshua Bramlett](https://dmsguild.com/product/216366/)
+|
 |
 | **~~Monk~~**
 Swordsage | [View](https://goo.gl/sFeRqg) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Monk%20-%20Swordsage%20%5Bby%20Wizzard%5D.js) | Wizzard | Homebrew by Wizzard
