@@ -22,7 +22,7 @@
 * For reporting bugs **with the scripts themselves**, please direct those to the [safety-orange GitHub page](https://github.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/issues). While /u/safety-orange will help and be involved in discussions on the subreddit, the GitHub is the intended bug reporting location.
 
 ##Posting content
-&nbsp;&nbsp;Only post code using a [GitHub Gist](https://gist.github.com/), so that we do not have formatting issues. Keep in mind to do the following:
+Only post code using a [GitHub Gist](https://gist.github.com/), so that we do not have formatting issues. Keep in mind to do the following:
 
 * Use .js as the file extension - So that GitHub will use proper syntax highlighting.
 * Create a Private Gist - This keeps it private, but allows you to post the URL that we can access.
@@ -40,3 +40,17 @@
 
 * Note that you can also download the script file by right-clicking a 'download' link below and selecting "Save Link As"
 * **Mac users**: you will have to download the script file, as it is not possible to open files from URL in the "Open" finder dialog
+
+&nbsp;
+
+##Questions
+
+**Q:**  What is the difference between the 'Printer Friendly' and the 'Printer Friendly - Redesign' sheets?
+
+**A:** The 'Printer Friendly' sheet uses elements from the official character sheets. The 'Printer Friendly - Redesign' sheet uses elements and designs that MPMB created himself to avoid any potential copyright issues.
+
+&nbsp;
+
+**Q:** Can I use the sheets on a mobile device?
+
+**A:** Due to the JavaScript required for it to work, the sheet requires a Windows or Mac system with Adobe Acrobat DC in order for the content to be imported onto the sheet. You will need to create the sheet on your computer, and then print a flattened version to PDF before it can be used.
