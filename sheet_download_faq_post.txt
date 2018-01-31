@@ -51,6 +51,12 @@ Only post code using a [GitHub Gist](https://gist.github.com/), so that we do no
 
 &nbsp;
 
+**Q:** Can I run the sheets on <Operating System>?
+
+**A:** The sheet requires Adobe Reader DC in order to work. To get the full list of system specs, please visit the [Adobe Help Page](https://helpx.adobe.com/reader/system-requirements.html) regarding this.
+
+&nbsp;
+
 **Q:** Can I use the sheets on a mobile device?
 
 **A:** Due to the JavaScript required for it to work, the sheet requires a Windows or Mac system with Adobe Acrobat DC in order for the content to be imported onto the sheet. You will need to create the sheet on your computer, and then print a flattened version to PDF before it can be used.
