@@ -5,7 +5,7 @@ This post contains the scripts that you will need in order to populate one of MP
 
 #How to import a script
 1. Right-click a 'download' link below of the resource that you want to import and select "Copy Link Location" (actual wording may differ, depending on your browser/language)
-2. Open the PDF and click on the bookmark that reads "Add Extra Materials"
+2. Open the PDF (v12.999 or newer) and click on the bookmark that reads "Add Extra Materials"
 3. Select the option "Import a file with additional material"
 4. In the dialogue that appears, click "Add file", and have the "Open File" dialogue of your OS open
 5. In the "Open File" dialogue that opens, you can now paste the link that you copied in step 1 and select to open that file
@@ -14,6 +14,7 @@ This post contains the scripts that you will need in order to populate one of MP
 8. Profit!
 
 * Note that you can also download the script file by right-clicking a 'download' link below and selecting "Save Link As"
+* Note that the scripts below only work with the latest version of the sheet
 * **Mac users**: you will have to download the script file, as it is not possible to open files from URL in the "Open" finder dialog
 
 &nbsp;
