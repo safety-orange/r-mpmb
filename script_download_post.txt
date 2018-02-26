@@ -158,7 +158,7 @@ Fate Domain | [View](https://goo.gl/oumKn4) | [Download](https://raw.githubuserc
 |
 | **~~Druid~~**
 Circle of the Deathbloom | [View](https://goo.gl/txXyKn) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Druid%20-%20Circle%20of%20the%20Deathbloom%20%5BStray%20Chow%20Chow's%20work%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [DMs Guild: Stray Chow Chow](https://dmsguild.com/product/173273/)
-|
+Circly of the Wyrm | [View](https://goo.gl/txXyKn) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Druid%20-%20Circle%20of%20the%20Wyrm%20%5BYouCanTry's%20work%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [YouCanTry on GiantITP](https://goo.gl/R5VNMY)
 |
 | **~~Fighter~~**
 Alchemical Archer | [View](https://goo.gl/Kqzyc8) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Fighter%20-%20Alchemical%20Archer%20%5Bby%20Zyndr%5D.js) | Zyndr  | Homebrew by Zyndr 
