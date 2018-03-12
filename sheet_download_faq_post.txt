@@ -12,7 +12,7 @@
 &nbsp;
 
 #Add additional content to the sheets
-* Find code on this subreddit, [like in the top post](https://www.reddit.com/r/mpmb/comments/7gkmsp)
+* Find code on this subreddit, [like in the top post][scripts]
 * By creating your own [using the syntax found here](https://github.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/tree/master/additional%20content%20syntax)
 
 &nbsp;
@@ -30,7 +30,7 @@ Only post code using a [GitHub Gist](https://gist.github.com/), so that we do no
 * Include the URL in your post.
 
 ##How to import a script
-1. Right-click a 'download' link to a .js file, [like from this post](https://www.reddit.com/r/mpmb/comments/7gkmsp), and select "Copy Link Location" (actual wording may differ, depending on your browser/language)
+1. Right-click a 'download' link to a .js file, [like from this post][scripts], and select "Copy Link Location" (actual wording may differ, depending on your browser/language)
 2. Open the PDF (v12.999 or newer) and click on the bookmark that reads "Add Extra Materials"
 3. Select the option "Import a file with additional material"
 4. In the dialogue that appears, click "Add file", and have the "Open File" dialogue of your OS open
@@ -40,7 +40,7 @@ Only post code using a [GitHub Gist](https://gist.github.com/), so that we do no
 8. Profit!
 
 * Note that you can also download the script file by right-clicking a 'download' link below and selecting "Save Link As"
-* Note that the scripts in [the top post](https://reddit.com/7gkmsp/) only work with the latest version of the sheet
+* Note that the scripts in [the top post][scripts] only work with the latest version of the sheet
 * **Mac users**: you will have to download the script file, as it is not possible to open files from URL in the "Open" finder dialog
 
 &nbsp;
@@ -62,3 +62,6 @@ Only post code using a [GitHub Gist](https://gist.github.com/), so that we do no
 **Q:** Can I use the sheets on a mobile device?
 
 **A:** Due to the JavaScript required for it to work, the sheet requires a Windows or Mac system with Adobe Acrobat DC. No other software will support the JavaScript automations in the sheet. You can open the PDF with any PDF viewer, even on mobile devices, but you can't use any of the automation. A workaround for this is to create the sheet on your computer and then use the "flatten" button to make some fields read-only. The result can then be used on any device without running the risk of changing something that will break the automation. To change something on the sheet, simply open it again in Adobe Acrobat DC and press the "flatten" button again to make the fields editable again.
+
+
+[scripts]: https://reddit.com/83m1gw/
