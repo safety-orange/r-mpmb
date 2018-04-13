@@ -203,7 +203,7 @@ the Big, Bad Wolf | [View](https://bit.ly/2pUWN8z) | [Download](https://raw.gith
 |
 |
 | **~~Wizard~~**
-Blood Magic v2 | [View](https://bit.ly/2GWyou9) | [Download](https://github.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/raw/master/additional%20content/Subclasses/Wizard%20-%20Blood%20Magic%20(v2)%20%5BJoshua%20Raynack's%20work%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [DMs Guild: Joshua Raynack](https://dmsguild.com/product/170966)
+Blood Magic v2 | [View](https://bit.ly/2GWyou9) | [Download](https://github.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/raw/master/additional%20content/Subclasses/Wizard%20-%20Blood%20Magic%20\(v2\)%20%5BJoshua%20Raynack's%20work%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [DMs Guild: Joshua Raynack](https://dmsguild.com/product/170966)
 Spell-Stained | [View](https://bit.ly/2pZN682) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Wizard%20-%20Spell-Stained%20%5BEuphonetics%20work%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | Homebrew by Euphonetics
 
 ##Backgrounds
