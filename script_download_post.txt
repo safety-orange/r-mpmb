@@ -31,7 +31,7 @@ Fighter - Gunslinger v1.3 [Matthew Mercer] | [View][gview] | [Download][g] |
 &nbsp;
 
 #Official WotC 5e Content
-^^All ^^of ^^these ^^are ^^included ^^in ^^the ^^"All ^^Official ^^WotC ^^5e ^^Content" ^^and *^^"All ^^Scripts ^^Combined ^^\(Official ^^+ ^^UA\)"* ^^scripts ^^above.
+^^All ^^of ^^these ^^are ^^included ^^in ^^the ^^"All ^^Official ^^WotC ^^5e ^^Content" ^^and ^^"All ^^Scripts ^^Combined ^^\(Official ^^+ ^^UA\)" ^^scripts ^^above.
 
 Resource | Released | GitHub | Direct Code | Original
 ---|:---:|:---:|:---:|:---:
