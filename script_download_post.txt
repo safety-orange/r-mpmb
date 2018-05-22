@@ -59,6 +59,7 @@ Players Handbook | 2014/08/19 | [View](https://bit.ly/2pWZK86) | [Download](http
 
 Resource | Released | GitHub | Direct Code | Original
 ---|:---:|:---:|:---:|:---:
+Centaur and Minotaur | 2018/05/14 | [View](https://bit.ly/2IZj2VC) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/ua_20180514_Centaur-and-Minotaur.js) | [Free PDF](https://bit.ly/2J1wjNB)
 Order Domain | 2018/04/09 | [View](https://bit.ly/2GYvEZ5) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/ua_20180409_Order-Domain.js) | [Free PDF](https://bit.ly/2JK1Q4c)
 Three Subclasses | 2018/01/08 | [View](https://bit.ly/2GoQp3P) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/ua_20180108_Three-Subclasses.js) | [Free PDF](https://bit.ly/2IobcRM)
 Elf Subraces | 2017/11/13 | [View](https://bit.ly/2H0cnHm) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/ua_20171113_Elf-Subraces.js) | [Free PDF](https://bit.ly/2GxFT6t)
