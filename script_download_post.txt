@@ -35,6 +35,7 @@ Fighter - Gunslinger v1.3 [Matthew Mercer] | [View][gview] | [Download][g] |
 
 Resource | Released | GitHub | Direct Code | Original
 ---|:---:|:---:|:---:|:---:
+Mordenkainen's Tome of Foes | 2018/05/29 | [View](https://bit.ly/2khO8Kq) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/pub_20180529_MToF.js) | [Book](https://bit.ly/2Llh7Jr) 
 Xanathar's Guide to Everything | 2017/11/21 | [View](https://bit.ly/2Eb6owC) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/pub_20171121_XGtE.js) | [Book](https://bit.ly/2IlzNGy)
 Tomb of Annihilation | 2017/09/19 | [View](https://bit.ly/2GqxhhW) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/pub_20170919_ToA.js) | [Book](https://bit.ly/2pWZw0r)
 The Tortle Package | 2017/09/15 | [View](https://bit.ly/2pWNKTZ) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/pub_20170915_Tortle.js) | [DMs Guild](https://bit.ly/2pZNovE)
@@ -161,7 +162,9 @@ Fate Domain | [View](https://bit.ly/2pVxdAq) | [Download](https://raw.githubuser
 | 
 **~~Druid~~** | 
 Circle of the Deathbloom | [View](https://bit.ly/2q0ZLsz) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Druid%20-%20Circle%20of%20the%20Deathbloom%20%5BStray%20Chow%20Chow's%20work%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [DMs Guild: Stray Chow Chow](https://dmsguild.com/product/173273)
+Circle of the Fountain | [View](https://bit.ly/2kkZoW8) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Druid%20-%20Circle%20of%20the%20Fountain%20%5BStray%20Chow%20Chow's%20work%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [DMs Guild: Stray Chow Chow](https://dmsguild.com/product/173274)
 Circly of the Wyrm | [View](https://bit.ly/2q174Qb) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Druid%20-%20Circle%20of%20the%20Wyrm%20%5BYouCanTry's%20work%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [YouCanTry on GiantITP](https://bit.ly/2Ha4HCy)
+| 
 | 
 **~~Fighter~~** | 
 Alchemical Archer | [View](https://bit.ly/2IjHpJU) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Fighter%20-%20Alchemical%20Archer%20%5Bby%20Zyndr%5D.js) | Zyndr | Homebrew by Zyndr 
