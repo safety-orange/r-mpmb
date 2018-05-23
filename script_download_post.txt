@@ -35,7 +35,7 @@ Fighter - Gunslinger v1.3 [Matthew Mercer] | [View][gview] | [Download][g] |
 
 Resource | Released | GitHub | Direct Code | Original
 ---|:---:|:---:|:---:|:---:
-Mordenkainen's Tome of Foes | 2018/05/29 | [View](https://bit.ly/2khO8Kq) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/pub_20180529_MToF.js) | [Book](https://bit.ly/2Llh7Jr) 
+Mordenkainen's Tome of Foes | 2018/05/29 | [View](https://bit.ly/2khO8Kq) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/pub_20180529_MToF.js) | [Book](https://bit.ly/2IH50sG) 
 Xanathar's Guide to Everything | 2017/11/21 | [View](https://bit.ly/2Eb6owC) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/pub_20171121_XGtE.js) | [Book](https://bit.ly/2IlzNGy)
 Tomb of Annihilation | 2017/09/19 | [View](https://bit.ly/2GqxhhW) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/pub_20170919_ToA.js) | [Book](https://bit.ly/2pWZw0r)
 The Tortle Package | 2017/09/15 | [View](https://bit.ly/2pWNKTZ) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/pub_20170915_Tortle.js) | [DMs Guild](https://bit.ly/2pZNovE)
