@@ -153,8 +153,10 @@ Resource | GitHub | Direct Code | Code by | Original
 ---|:---:|:---:|:---:|---
 | 
 **~~Bard~~** |
+College of Bladesingers | [View](https://bit.ly/2J8RYU7) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Bard%20-%20College%20of%20Bladesingers%20%5BSteven%20Ross'%20work%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [DMs Guild: Mage Tower Creations](https://dmsguild.com/product/173269)
 College of Mourning | [View](https://bit.ly/2Ec1D5I) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Bard%20-%20College%20of%20Mourning%20%5Bby%20Derek%5D.js) | Derek | Homebrew by Derek
 College of the Maestro v1.2 | [View](https://bit.ly/2pWUKjJ) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Bard%20-%20College%20of%20the%20Maestro%20%5BMatthew%20Mercer's%20work%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [DMs Guild: Matthew Mercer](https://dmsguild.com/product/183630)
+| 
 | 
 **~~Cleric~~** | 
 Fate Domain | [View](https://bit.ly/2pVxdAq) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Cleric%20-%20Fate%20Domain%20%5BCody%20Faulk's%20work%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [DMs Guild: Cody Faulk](https://dmsguild.com/product/194789)
