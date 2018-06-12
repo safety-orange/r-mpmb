@@ -1,5 +1,5 @@
 This post contains the scripts that you will need in order to populate one of MPMB's Character Record Sheet.    
-[**You can find the sheets here**](https://reddit.com/7gkjkw/).
+[**You can find the sheets here**](https://redd.it/7gkjkw).
 
 &nbsp;
 
@@ -129,14 +129,14 @@ Quality will vary, depending on who wrote the code and the original material.*
 Resource | GitHub | Direct Code | Code by | Original
 ---|:---:|:---:|:---:|---
 Awakened Undead | [View](https://bit.ly/2ImARtN) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Races/Awakened%20Undead%2C%205%20subraces%20%26%202%20feats%20%5BWalrock%20Homebrew's%20work%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [DMs Guild: Walrock Homebrew](https://dmsguild.com/product/222229)
-Canim | [View](https://bit.ly/2JdWNMP) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Races/Canim%20%5BCryyl's%20work%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [/u/Cryyl on /r/UnearthedArcana](https://reddit.com/45msi6)
+Canim | [View](https://bit.ly/2JdWNMP) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Races/Canim%20%5BCryyl's%20work%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [/u/Cryyl on /r/UnearthedArcana](https://redd.it/45msi6)
 Dhampir* | [View](https://bit.ly/2pVR95o) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Races/Dhampir%20%5BDanDwiki%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [DanDwiki*](https://bit.ly/2Jj7kCQ "Basically everything from DanDwiki is atrociously unbalanced!")
 Kitsune | [View](https://bit.ly/2pVRFjQ) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Races/Kitsune%20%5BMarshall%20Miller's%20work%2C%20transcribed%20by%20Murray%5D.js) | Murray & [MPMB] | [DMs Guild: Marshall Miller](https://dmsguild.com/product/171361)
 Merfolk | [View](https://bit.ly/2pWwfmJ) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Races/Merfolk%2C%20with%204%20subraces%20%5Bby%20Sarixis%5D.js) | Sarixis | Homebrew by Sarixis
 Merfolk Erectus | [View](https://bit.ly/2HxjIP3) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Races/Merfolk%20Erectus%20%5Bby%20Snutze%5D.js) | Snutze | Homebrew by Snutze
 Shade | [View](https://bit.ly/2Eb80q3) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Races/Shade%2C%20with%202%20subraces%20%5BJeremy%20Forbing's%20work%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [DMs Guild: Jeremy Forbing](https://dmsguild.com/product/208791)
 Sojourner Dwarf | [View](https://bit.ly/2EaV9nT) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Races/Sojourner%20Dwarf%20%5BGoodman%20Games'%20work%2C%20transcribed%20by%20James%20Bowman%5D.js) | James B | [DMs Guild: Goodman Games](https://dmsguild.com/product/132657)
-Soulbound | [View](https://bit.ly/2pWIXC1) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Races/Soulbound%20%5BGreypilgrim333's%20work%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [/u/Greypilgrim333 on /r/UnearthedArcana](https://reddit.com/4wsioc)
+Soulbound | [View](https://bit.ly/2pWIXC1) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Races/Soulbound%20%5BGreypilgrim333's%20work%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [/u/Greypilgrim333 on /r/UnearthedArcana](https://redd.it/4wsioc)
 Half-Elf (Fey Step) | [View](https://bit.ly/2pXSIQh) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Races/Variant%20-%20Half-Elf%20(Fey%20Step\)%20%5Bby%20Mike%5D.js) | Mike | Homebrew by Mike
 
 ##Classes
@@ -147,7 +147,7 @@ Alchemist | [View](https://bit.ly/2GMSohI) | [Download](https://raw.githubuserco
 Blood Hunter v2.0 | [View][bhview] | [Download][bh] | Darryl C & [MPMB] | [DMs Guild: Matthew Mercer](https://dmsguild.com/product/170777)
 Justiciar v2.5 | [View](https://bit.ly/2su8lBd) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Classes/Justiciar%20%5BRoss%20Leiser's%20work%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [Outlandish Adventure Productions](https://dmsguild.com/product/211874)
 Shaman | [View](https://bit.ly/2pWTY6j) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Classes/Shaman%20%5BMichael%20Wolf's%20work%2C%20transcribed%20by%20Derek%2C%20Fourleafclov%2C%20MPMB%5D.js) | Derek, /u/Fourleafclov, [MPMB] | [DMs Guild: Michael Wolf](https://dmsguild.com/product/170851)
-Witch v0.4 | [View](https://bit.ly/2pWQosM) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Classes/Witch%20%5BZarieth's%20work%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [/u/Zarieth on /r/UnearthedArcana](https://reddit.com/5dtd1x/)
+Witch v0.4 | [View](https://bit.ly/2pWQosM) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Classes/Witch%20%5BZarieth's%20work%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [/u/Zarieth on /r/UnearthedArcana](https://redd.it/5dtd1x)
 
 ##Subclasses
 
@@ -183,7 +183,7 @@ Tactician | [View](https://bit.ly/2IkTWwz) | [Download](https://raw.githubuserco
 **~~Monk~~** | 
 Swordsage | [View](https://bit.ly/2pWJMe5) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Monk%20-%20Swordsage%20%5Bby%20Wizzard%5D.js) | Wizzard | Homebrew by Wizzard
 Way of the Four Elements, Remastered | [View](https://bit.ly/2pWK2K5) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Monk%20-%20Way%20of%20the%20Four%20Elements%2C%20Remastered%20%5BSpiketailDrake's%20work%2C%20transcribed%20by%20AKA_Sketch%20%26%20MPMB%5D.js) | /u/AKA_Sketch & [MPMB] | [/u/IrishBandit, based on /u/SpiketailDrake](https://bit.ly/2Ivhyyu)
-Way of the Jedi v2.2 | [View](https://bit.ly/2Ilxvrl) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Monk%20-%20Way%20of%20the%20Jedi%20%5BSpiketailDrake's%20work%2C%20transcribed%20by%20Lily%20K.%20%26%20MPMB%5D.js) | Lily K & [MPMB] | [/u/SpiketailDrake on /r/UnearthedArcana](https://reddit.com/4b41ro/)
+Way of the Jedi v2.2 | [View](https://bit.ly/2Ilxvrl) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Monk%20-%20Way%20of%20the%20Jedi%20%5BSpiketailDrake's%20work%2C%20transcribed%20by%20Lily%20K.%20%26%20MPMB%5D.js) | Lily K & [MPMB] | [/u/SpiketailDrake on /r/UnearthedArcana](https://redd.it/4b41ro)
 | 
 | 
 **~~Paladin~~** | 
@@ -196,7 +196,7 @@ Corsair | [View](https://bit.ly/2pWXqOj) | [Download](https://raw.githubusercont
 | 
 **~~Rogue~~** | 
 Field Support | [View](https://bit.ly/2Ihioir) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Rogue%20-%20Field%20Support%20%5Bby%20Monty%5D.js) | Monty | [Homebrew by Monty](https://bit.ly/2uIFmNm)
-Shadowdancer | [View](https://bit.ly/2q17m9J) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Rogue%20-%20Shadowdancer%20%5Bincrediblehulf's%20work%2C%20transcribed%20by%20Layton%20%26%20MPMB%5D.js) | Layton & [MPMB] | [/u/incrediblehulf on /r/UnearthedArcana](https://reddit.com/44tph8/)
+Shadowdancer | [View](https://bit.ly/2q17m9J) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Rogue%20-%20Shadowdancer%20%5Bincrediblehulf's%20work%2C%20transcribed%20by%20Layton%20%26%20MPMB%5D.js) | Layton & [MPMB] | [/u/incrediblehulf on /r/UnearthedArcana](https://redd.it/44tph8)
 Spellwarp Sniper | [View](https://bit.ly/2pXQbFX) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Rogue%20-%20Spellwarp%20Sniper%20%5Bby%20Subpar77%5D.js) | Subpar77 | Homebrew by Subpar77
 Thieving Magpie | [View](https://bit.ly/2pXzcEg) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Rogue%20-%20Thieving%20Magpie%20%5BFirebringeraxel's%20work%2C%20transcribed%20by%20TwoHeadedBoy%5D.js) | TwoHeadedBoy | [Homebrew by Firebringeraxel](https://bit.ly/2GXA4CC)
 | 

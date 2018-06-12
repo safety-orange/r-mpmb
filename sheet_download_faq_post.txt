@@ -64,4 +64,4 @@ Only post code using a [GitHub Gist](https://gist.github.com/), so that we do no
 **A:** Due to the JavaScript required for it to work, the sheet requires a Windows or Mac system with Adobe Acrobat DC. No other software will support the JavaScript automations in the sheet. You can open the PDF with any PDF viewer, even on mobile devices, but you can't use any of the automation. A workaround for this is to create the sheet on your computer and then use the "flatten" button to make some fields read-only. The result can then be used on any device without running the risk of changing something that will break the automation. To change something on the sheet, simply open it again in Adobe Acrobat DC and press the "flatten" button again to make the fields editable again.
 
 
-[scripts]: https://reddit.com/83m1gw/
+[scripts]: https://redd.it/83m1gw
