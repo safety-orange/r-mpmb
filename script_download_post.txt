@@ -25,7 +25,7 @@ Resource | GitHub | Direct Code | Minified
 **All Official WotC 5e Content** | [View](https://bit.ly/2H1d8QH) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_published.js) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_published.min.js)
 **All Unearthed Arcana** | [View](https://bit.ly/2pXHLyl) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_unearthed_arcana.js) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_unearthed_arcana.min.js)
 **All Scripts Combined (Official + UA)** | [View](https://bit.ly/2Go5cvy) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_pub%2BUA.js) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_pub%2BUA.min.js)
-Blood Hunter v2.0 [Matthew Mercer] | [View][bhview] | [Download][bh] |
+Blood Hunter v2.1 [Matthew Mercer] | [View][bhview] | [Download][bh] |
 Fighter - Gunslinger v1.3 [Matthew Mercer] | [View][gview] | [Download][g] |
 
 &nbsp;
@@ -60,6 +60,7 @@ Players Handbook | 2014/08/19 | [View](https://bit.ly/2pWZK86) | [Download](http
 
 Resource | Released | GitHub | Direct Code | Original
 ---|:---:|:---:|:---:|:---:
+Giant Soul Sorcerer | 2018/06/11 | [View](https://bit.ly/2JCGb1r) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/ua_20180611_Giant-Soul-Sorcerer.js) | [Free PDF](https://bit.ly/2MuYVh1)
 Centaur and Minotaur | 2018/05/14 | [View](https://bit.ly/2IZj2VC) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/ua_20180514_Centaur-and-Minotaur.js) | [Free PDF](https://bit.ly/2J1wjNB)
 Order Domain | 2018/04/09 | [View](https://bit.ly/2GYvEZ5) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/ua_20180409_Order-Domain.js) | [Free PDF](https://bit.ly/2JK1Q4c)
 Three Subclasses | 2018/01/08 | [View](https://bit.ly/2GoQp3P) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/ua_20180108_Three-Subclasses.js) | [Free PDF](https://bit.ly/2IobcRM)
@@ -144,7 +145,7 @@ Half-Elf (Fey Step) | [View](https://bit.ly/2pXSIQh) | [Download](https://raw.gi
 Resource | GitHub | Direct Code | Code by | Original
 ---|:---:|:---:|:---:|---
 Alchemist | [View](https://bit.ly/2GMSohI) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Classes/Alchemist%20[DawnforgedCast's%20work%2C%20transcribed%20by%20PbFarmer]%20(incomplete\).js) | /u/PbFarmer | [DawnforgedCast](https://bit.ly/2q9LRTQ)
-Blood Hunter v2.0 | [View][bhview] | [Download][bh] | Darryl C & [MPMB] | [DMs Guild: Matthew Mercer](https://dmsguild.com/product/170777)
+Blood Hunter v2.1 | [View][bhview] | [Download][bh] | Darryl C & [MPMB] | [DMs Guild: Matthew Mercer](https://dmsguild.com/product/170777)
 Justiciar v2.5 | [View](https://bit.ly/2su8lBd) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Classes/Justiciar%20%5BRoss%20Leiser's%20work%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [Outlandish Adventure Productions](https://dmsguild.com/product/211874)
 Shaman | [View](https://bit.ly/2pWTY6j) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Classes/Shaman%20%5BMichael%20Wolf's%20work%2C%20transcribed%20by%20Derek%2C%20Fourleafclov%2C%20MPMB%5D.js) | Derek, /u/Fourleafclov, [MPMB] | [DMs Guild: Michael Wolf](https://dmsguild.com/product/170851)
 Witch v0.4 | [View](https://bit.ly/2pWQosM) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Classes/Witch%20%5BZarieth's%20work%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [/u/Zarieth on /r/UnearthedArcana](https://redd.it/5dtd1x)
