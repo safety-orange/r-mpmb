@@ -7,6 +7,10 @@
 .titlebox .redditname a:after {
   content: "MorePurpleMoreBetter's Character Record Sheet";
 }
+/* sidebar list indent by safety-orange */
+.titlebox .md .-lists, .titlebox .md ul, .titlebox .md ol {
+	padding-left: 25px;
+}
 
 /* headers formatting by safety-orange */
 .md h1,.md h2,.md h3,.md h4 {

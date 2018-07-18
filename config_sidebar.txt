@@ -20,9 +20,11 @@ Useful links:
 
 Filter post by flair:
 
-* [[Script Help]](https://www.reddit.com/r/mpmb/search?sort=new&restrict_sr=on&q=flair%3AScript%2BHelp) (often contain new scripts)
-* [[Script Request]](https://www.reddit.com/r/mpmb/search?sort=new&restrict_sr=on&q=flair%3AScript%2BRequest)
-* [[Script Submission]](https://www.reddit.com/r/mpmb/search?sort=new&restrict_sr=on&q=flair%3AScript%2BSubmission)
+* **[[Script Help]](https://www.reddit.com/r/mpmb/search?sort=new&restrict_sr=on&q=flair%3AScript%2BHelp)** (often also contain new scripts)
+
+* **[[Script Request]](https://www.reddit.com/r/mpmb/search?sort=new&restrict_sr=on&q=flair%3AScript%2BRequest)**
+
+* **[[Script Submission]](https://www.reddit.com/r/mpmb/search?sort=new&restrict_sr=on&q=flair%3AScript%2BSubmission)**
 
 &nbsp;
 
@@ -32,6 +34,7 @@ Filter post by flair:
 Get the sheets:   
 
 * **[on EN World](http://www.enworld.org/forum/rpgdownloads.php?do=download&downloadid=1180)** (free);
+
 * **[via Patreon](https://www.patreon.com/posts/14927098)** (subscribers only).
 
 The FAQ may not answer all questions, but it is updated as more questions get asked.
@@ -50,7 +53,9 @@ The sheet only comes with SRD content. Visit [the sticky post](https://redd.it/8
 To share or get help with a script you made, please follow the [subreddit rules](https://www.reddit.com/r/mpmb/about/rules/) and post a **link to the script*** using a code sharing website:
 
 * **[Github Gist](https://gist.github.com/)**;
+
 * **[Pastebin](https://pastebin.com/)**;
+
 * or another snippet sharing service that uses JavaScript syntax highlighting.
 
 &nbsp;
@@ -58,7 +63,9 @@ To share or get help with a script you made, please follow the [subreddit rules]
 Also take note of the following:
 
 * Use **.js** as the file extension for formatting purposes;
+
 * Include the URL in your post;
+
 * Update the code when you make improvements (don't just take help, but share your creation).
 
 &nbsp;
@@ -82,11 +89,11 @@ Do the following if you want to add things to the sheet that aren't found in [th
 **Seriously... Do not use MS Word...**    
 MS Word will use the wrong type of apostrophes and quotation marks for your JavaScript!
 
-&nbsp;
-
-* [**Notepad++**](https://notepad-plus-plus.org/) with [JSToolNpp](http://jsminnpp.sourceforge.net/)    
+* **[Notepad++](https://notepad-plus-plus.org/)** with [JSToolNpp](http://jsminnpp.sourceforge.net/)    
 Notepad++ is the best lightweight tool to edit code. JSToolNpp is an add-on for Notepad++, to assist with JavaScript and JSON coding.
-* [**Gisto**](http://www.gistoapp.com/)    
+
+* **[Gisto](http://www.gistoapp.com/)**    
 This is another lightweight tool, that is integrated with Github to allow you easily post Gists from within the app.
-* [Adobe Acrobat JavaScript API](https://wwwimages2.adobe.com/content/dam/acom/en/devnet/acrobat/pdfs/AcrobatDC_js_api_reference.pdf)    
+
+* **[Adobe Acrobat JavaScript API](https://wwwimages2.adobe.com/content/dam/acom/en/devnet/acrobat/pdfs/AcrobatDC_js_api_reference.pdf)**    
 For learning to add functionality to the sheet, this is a must use reference guide!
