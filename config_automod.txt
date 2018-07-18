@@ -1,0 +1,52 @@
+# response to all new submissions
+type: submission
+moderators_exempt: true
+author:
+    is_contributor: false
+comment: |
+    Hi {{author}},    
+    Thanks for posting to /r/mpmb and being apart of the community! We get a lot of the same questions, so please take a look below to see if any of these help you.
+
+    &nbsp;
+
+    #Code fix requests
+
+    Coding can be a pain, we know. Here are a couple steps you can take to check the code yourself in the mean time, otherwise someone will come along and check it out for you!
+
+    1. Paste the code into the left hand side of [JSHint](http://jshint.com/) to see what errors pop up. Chances are you missed a semi-colon and this will tell you right away.
+    2. Include the text or screenshot of the error. That verbage is extremely important to a quick fix.
+    3. **Include a link to your code!** It sounds silly that we list this, but a lot of people seem to forget that they need to show the code they are working with for others to be able to see what is wrong with it or how to change it.    
+    Don't forget the [subreddit's rules](https://www.reddit.com/r/mpmb/about/rules/) about putting your code on a code-sharing website like [GitHub](https://gist.github.com/) or [Pastebin](https://pastebin.com/) and not to include your code as plain text in your post.
+
+    &nbsp;
+
+    &nbsp;
+
+    #Homebrew code creation requests
+
+    This sub has a lot of posts requesting somebody else to write a (complex) script. Please be courteous in your request and take note of the following list of things:
+
+    1. **Be polite!** Simply posting "I need this done because I can't code" or "I don't have time for this" is not the correct way to go about this. *Make sure to say please!*
+    2. Tell us why you love it! People usually want to know what's cool about the class and it could spark someone to want to try it, motivating them to write it up.
+    3. **Provide a link to the content!** It sounds silly that we list this, but you should not expect someone to first have to google what you're asking for. If you don't link it, don't expect help.
+    4. If the content is from D&D Wiki, please keep in mind that the pages on that website are usually broken, overpowered or just plain stupid. Make sure that it is appropriate as most players do not play on that level.
+    5. For an official script of something Homebrew, there are two separate tiers on [morepurplemorebetter's Patreon](https://www.patreon.com/morepurplemorebetter) where he will write the scripts for you:
+     * $20 (Sorcerer) - Subclass; archtype; race
+     * $70 (Soothsayer) - Full class import
+
+    &nbsp;
+
+    &nbsp;
+
+    #Sheet correction / Bug reporting
+
+    **Error with an Import Script**    
+    You are in the correct place for reporting errors with scripts that you found on this subreddit. Please make sure you include a comprehensive descriptions of what is wrong with the script. Provide error texts if applicable.
+
+    &nbsp;
+
+    **Error with the Sheets**    
+    If you want to report a bug with the sheets themselves, not the imported scripts, please be aware that /r/mpmb is not an official place for bug reporting for the character record sheet. However, the mods are more than happy to forward a bug report for you.    
+    In order to report a bug, you need provide a detailed rundown on how we can reproduce the issue, starting with a **freshly downloaded sheet of the latest version**. Bug reports concerning older versions of the sheet are not useful as the issue might well have been fixed already.
+
+    &nbsp;

@@ -1,0 +1,92 @@
+
+
+
+/r/mpmb is intended to help players find the scripts they need to utilize the popular Character Record Sheet by MorePurpleMoreBetter.    
+This is a fan subreddit and does not express the opinions of /u/morepurplemorebetter.
+
+You are also welcome to ask questions about the sheets or get help with the scripts you create.
+
+&nbsp;
+
+Useful links:
+
+* **[MPMB's Patreon](https://www.patreon.com/morepurplemorebetter)**
+
+* **[MPMB's GitHub](https://github.com/morepurplemorebetter/MPMBs-Character-Record-Sheet)**
+
+* **[Safety-Oranges's GitHub](https://github.com/safety-orange/Imports-for-MPMB-s-Character-Sheet)**
+
+&nbsp;
+
+Filter post by flair:
+
+* [[Script Help]](https://www.reddit.com/r/mpmb/search?sort=new&restrict_sr=on&q=flair%3AScript%2BHelp) (often contain new scripts)
+* [[Script Request]](https://www.reddit.com/r/mpmb/search?sort=new&restrict_sr=on&q=flair%3AScript%2BRequest)
+* [[Script Submission]](https://www.reddit.com/r/mpmb/search?sort=new&restrict_sr=on&q=flair%3AScript%2BSubmission)
+
+&nbsp;
+
+#1. Getting started
+
+##[1.1 Download the PDF Sheet & Read the FAQ](https://redd.it/7gkjkw)
+Get the sheets:   
+
+* **[on EN World](http://www.enworld.org/forum/rpgdownloads.php?do=download&downloadid=1180)** (free);
+* **[via Patreon](https://www.patreon.com/posts/14927098)** (subscribers only).
+
+The FAQ may not answer all questions, but it is updated as more questions get asked.
+
+Note that the sheets only work with [Adobe Acrobat DC](https://get.adobe.com/reader/) on Windows or Mac OS!
+
+&nbsp;
+
+##[1.2 Download Content Scripts](https://redd.it/83m1gw)
+The sheet only comes with SRD content. Visit [the sticky post](https://redd.it/83m1gw) to get additional scripts to import into the sheet.
+
+&nbsp;
+
+#2. Posting your creations
+
+To share or get help with a script you made, please follow the [subreddit rules](https://www.reddit.com/r/mpmb/about/rules/) and post a **link to the script*** using a code sharing website:
+
+* **[Github Gist](https://gist.github.com/)**;
+* **[Pastebin](https://pastebin.com/)**;
+* or another snippet sharing service that uses JavaScript syntax highlighting.
+
+&nbsp;
+
+Also take note of the following:
+
+* Use **.js** as the file extension for formatting purposes;
+* Include the URL in your post;
+* Update the code when you make improvements (don't just take help, but share your creation).
+
+&nbsp;
+
+**Any sections of code less than five (5) lines may be included in a post. Anything longer must be posted using a third party snippet sharing service or will risk being removed.*
+
+&nbsp;
+
+#3. Creating new content for the sheet
+Do the following if you want to add things to the sheet that aren't found in [the top post](https://redd.it/83m1gw):
+
+1. Use the SEARCH function to make sure no one else has began work on what you're looking to do!
+2. [Read the syntax](https://github.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/tree/master/additional%20content%20syntax) for what it is you're looking to create.
+3. Make a post for your addition (with a link to the code, see above).
+4. Check out the useful programs below.
+
+&nbsp;
+
+##3.1 Useful Programs & Documents
+
+**Seriously... Do not use MS Word...**    
+MS Word will use the wrong type of apostrophes and quotation marks for your JavaScript!
+
+&nbsp;
+
+* [**Notepad++**](https://notepad-plus-plus.org/) with [JSToolNpp](http://jsminnpp.sourceforge.net/)    
+Notepad++ is the best lightweight tool to edit code. JSToolNpp is an add-on for Notepad++, to assist with JavaScript and JSON coding.
+* [**Gisto**](http://www.gistoapp.com/)    
+This is another lightweight tool, that is integrated with Github to allow you easily post Gists from within the app.
+* [Adobe Acrobat JavaScript API](https://wwwimages2.adobe.com/content/dam/acom/en/devnet/acrobat/pdfs/AcrobatDC_js_api_reference.pdf)    
+For learning to add functionality to the sheet, this is a must use reference guide!
