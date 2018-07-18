@@ -79,7 +79,7 @@ tbody tr:nth-child(odd) td:not([colspan]):not(:empty) {
 }
 
 /* Removing flair opacity by Shwaffle */
-.unvoted.entry .top-matter .title .linkflairlabel, .likes.entry .top-matter .title .linkflairlabel {
+.entry.unvoted .top-matter .title .linkflairlabel, .entry.likes .top-matter .title .linkflairlabel, .entry.dislikes .top-matter .title .linkflairlabel {
 	opacity: 1
 }
 
