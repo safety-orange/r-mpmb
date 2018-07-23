@@ -20,11 +20,13 @@ Useful links:
 
 Filter post by flair:
 
-* **[[Script Help]](https://www.reddit.com/r/mpmb/search?sort=new&restrict_sr=on&q=flair%3AScript%2BHelp)** (often also contain new scripts)
+* **[Hide [Script Request]](https://www.reddit.com/r/mpmb/search?sort=new&restrict_sr=on&q=NOT+flair%3AScript%2BRequest)**
 
-* **[[Script Request]](https://www.reddit.com/r/mpmb/search?sort=new&restrict_sr=on&q=flair%3AScript%2BRequest)**
+* **[[Script Help] only](https://www.reddit.com/r/mpmb/search?sort=new&restrict_sr=on&q=flair%3AScript%2BHelp)** (often also contain new scripts)
 
-* **[[Script Submission]](https://www.reddit.com/r/mpmb/search?sort=new&restrict_sr=on&q=flair%3AScript%2BSubmission)**
+* **[[Script Request] only](https://www.reddit.com/r/mpmb/search?sort=new&restrict_sr=on&q=flair%3AScript%2BRequest)**
+
+* **[[Script Submission] only](https://www.reddit.com/r/mpmb/search?sort=new&restrict_sr=on&q=flair%3AScript%2BSubmission)**
 
 &nbsp;
 
