@@ -39,6 +39,7 @@ Fighter - Gunslinger v1.3 [Matthew Mercer] | [View][gview] | [Download][g] | |
 
 Resource | Released | GitHub | Direct Code | Original
 ---|:---:|:---:|:---:|:---:
+Wayfinder's Guide to Eberron | 2018/07/23 | [View](https://bit.ly/2mGBiqn) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/pub_20180723_WGtE.js) | [DMs Guild](https://bit.ly/2Ly3qtC)
 Mordenkainen's Tome of Foes | 2018/05/29 | [View](https://bit.ly/2khO8Kq) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/pub_20180529_MToF.js) | [Book](https://bit.ly/2IH50sG) 
 Xanathar's Guide to Everything | 2017/11/21 | [View](https://bit.ly/2Eb6owC) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/pub_20171121_XGtE.js) | [Book](https://bit.ly/2IlzNGy)
 Tomb of Annihilation | 2017/09/19 | [View](https://bit.ly/2GqxhhW) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/pub_20170919_ToA.js) | [Book](https://bit.ly/2pWZw0r)
@@ -64,6 +65,7 @@ Players Handbook | 2014/08/19 | [View](https://bit.ly/2pWZK86) | [Download](http
 
 Resource | Released | GitHub | Direct Code | Original
 ---|:---:|:---:|:---:|:---:
+Races of Eberron | 2018/07/23 | [View](https://bit.ly/2mFTCzT) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/ua_20180723_Races-of-Eberron.js) | [Free PDF](https://bit.ly/2mEOJah)
 Giant Soul Sorcerer | 2018/06/11 | [View](https://bit.ly/2JCGb1r) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/ua_20180611_Giant-Soul-Sorcerer.js) | [Free PDF](https://bit.ly/2MuYVh1)
 Centaur and Minotaur | 2018/05/14 | [View](https://bit.ly/2IZj2VC) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/ua_20180514_Centaur-and-Minotaur.js) | [Free PDF](https://bit.ly/2J1wjNB)
 Order Domain | 2018/04/09 | [View](https://bit.ly/2GYvEZ5) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/ua_20180409_Order-Domain.js) | [Free PDF](https://bit.ly/2JK1Q4c)
