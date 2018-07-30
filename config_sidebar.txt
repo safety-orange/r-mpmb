@@ -1,6 +1,4 @@
 
-
-
 /r/mpmb is intended to help players find the scripts they need to utilize the popular Character Record Sheet by MorePurpleMoreBetter.    
 This is a fan subreddit and does not express the opinions of /u/morepurplemorebetter.
 
@@ -27,6 +25,12 @@ Filter post by flair:
 * **[[Script Request] only](https://www.reddit.com/r/mpmb/search?sort=new&restrict_sr=on&q=flair%3AScript%2BRequest)**
 
 * **[[Script Submission] only](https://www.reddit.com/r/mpmb/search?sort=new&restrict_sr=on&q=flair%3AScript%2BSubmission)**
+
+&nbsp;
+
+####Current Sheet Version
+#####Release: v12.999
+#####Beta: v13beta4
 
 &nbsp;
 
