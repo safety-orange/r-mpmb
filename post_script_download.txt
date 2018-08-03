@@ -169,7 +169,7 @@ Resource | GitHub | Direct Code | Code by | Original
 ---|:---:|:---:|:---:|---
 | 
 **`Barbarian`** |
-Path of the Brawler | [View](https://bit.ly/2LS4UA3) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Barbarian%20-%20Path%20of%20the%20Brawler%20%5Bhomebrew%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [Anonymous]
+Path of the Brawler | [View](https://bit.ly/2n8NvEt) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Barbarian%20-%20Path%20of%20the%20Brawler%20%5BMatt%20Stigler's%20work%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [Fantasy Band Camp](https://bit.ly/2OItdOm)
 | 
 | 
 **`Bard`** |
