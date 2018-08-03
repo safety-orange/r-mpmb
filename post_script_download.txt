@@ -168,6 +168,10 @@ Witch v0.4 | [View](https://bit.ly/2pWQosM) | [Download](https://raw.githubuserc
 Resource | GitHub | Direct Code | Code by | Original
 ---|:---:|:---:|:---:|---
 | 
+**`Barbarian`** |
+Path of the Brawler | [View](https://bit.ly/2LS4UA3) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Barbarian%20-%20Path%20of%20the%20Brawler%20%5Bhomebrew%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [Anonymous]
+| 
+| 
 **`Bard`** |
 College of Bladesingers | [View](https://bit.ly/2J8RYU7) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Bard%20-%20College%20of%20Bladesingers%20%5BSteven%20Ross'%20work%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [DMs Guild: Mage Tower Creations](https://dmsguild.com/product/173269)
 College of Mourning | [View](https://bit.ly/2Ec1D5I) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Bard%20-%20College%20of%20Mourning%20%5Bby%20Derek%5D.js) | Derek | Homebrew by Derek
