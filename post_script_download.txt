@@ -210,8 +210,6 @@ V | Resource | GitHub | Direct Code | Code by | Original
 
 Note that dates are written using the ISO-standard year/month/day
 
-[MPMB]: https://reddit.com/u/morepurplemorebetter "/u/morepurplemorebetter"
-[SO]: https://reddit.com/u/safety-orange "/u/safety-orange"
 [tdview]: https://bit.ly/2NTisIJ
 [td]: https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/3rd-party%20compendium/Tal'Dorei%20Campaign%20Setting%20(Critical%20Role).js
 [bhview]: https://bit.ly/2IjQKRL
@@ -219,7 +217,13 @@ Note that dates are written using the ISO-standard year/month/day
 [gview]: https://bit.ly/2JBzFmZ
 [g]: https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Fighter%20-%20Gunslinger%20v1.3%20%5BMatthew%20Mercer's%20work%2C%20transcribed%20by%20many%5D.js
 [gdms]: https://dmsguild.com/product/170778
+
+[MPMB]: https://reddit.com/u/morepurplemorebetter "/u/morepurplemorebetter"
+
+[SO]: https://reddit.com/u/safety-orange "/u/safety-orange"
+
 [jflp]: https://dmsguild.com/product/211385 "'Forgotten Realms Archetypes II: Champions of Mystery' is not a balanced product!"
+
 [-]: http://javascript:void(0\) "Be aware! This script is NOT up to MPMB's standards and will NOT always fit nicely with other things in the sheets"
 
 [✓]: http://javascript:void(0\) "This script is up to MPMB's rigid standards"
