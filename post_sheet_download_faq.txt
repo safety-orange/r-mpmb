@@ -34,8 +34,7 @@ Only post code using a [GitHub Gist](https://gist.github.com/), so that we do no
 &nbsp;
 
 ##How to import a script
-1.Right-click a 'download' link to a .js file, [like from this post][scripts], and:
-     "Copy Link Location" (actual wording may differ, depending on your browser/language)
+1. Right-click a 'download' link to a .js file, [like from this post][scripts], and:
     * **Windows users**, select "Copy Link Location" (actual wording may differ, depending on your browser/language)
     * **Mac users**, select "Save Link As..." and save the .js file somewhere you can find it again
 2. Open the PDF (v12.999 or newer) and click on the bookmark named "Add Extra Materials"
