@@ -1,4 +1,3 @@
-
 /r/mpmb is intended to help players find the scripts they need to utilize the popular Character Record Sheet by MorePurpleMoreBetter.    
 This is a fan subreddit and does not express the opinions of /u/morepurplemorebetter.
 
@@ -49,8 +48,8 @@ Note that the sheets only work with [Adobe Acrobat DC](https://get.adobe.com/rea
 
 &nbsp;
 
-##[1.2 Download Content Scripts](https://redd.it/83m1gw)
-The sheet only comes with SRD content. Visit [the sticky post](https://redd.it/83m1gw) to get additional scripts to import into the sheet.
+##[1.2 Download Content Scripts](https://redd.it/965yoz)
+The sheet only comes with SRD content. Visit [the sticky post](https://redd.it/965yoz) to get additional scripts to import into the sheet.
 
 &nbsp;
 
@@ -81,7 +80,7 @@ Also take note of the following:
 &nbsp;
 
 #3. Creating new content for the sheet
-Do the following if you want to add things to the sheet that aren't found in [the top post](https://redd.it/83m1gw):
+Do the following if you want to add things to the sheet that aren't found in [the top post](https://redd.it/965yoz):
 
 1. Use the SEARCH function to make sure no one else has began work on what you're looking to do!
 2. [Read the syntax](https://github.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/tree/master/additional%20content%20syntax) for what it is you're looking to create.
