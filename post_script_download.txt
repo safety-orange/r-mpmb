@@ -102,6 +102,7 @@ V | Resource | GitHub | Direct Code | Code by | Original
 :---:|---|:---:|:---:|:---:|---
 **[-]** | Alchemist | [View](https://bit.ly/2GMSohI) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Classes/Alchemist%20[DawnforgedCast's%20work%2C%20transcribed%20by%20PbFarmer]%20(incomplete\).js) | /u/PbFarmer | [DawnforgedCast](https://bit.ly/2q9LRTQ)
 **[✓]** | Blood Hunter v2.1 | [View][bhview] | [Download][bh] | Darryl C & [MPMB] | [DMs Guild: Matthew Mercer](https://dmsguild.com/product/170777)
+**[✓]** | Cardcaster | [View](https://bit.ly/2MmfqyF) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Classes/Cardcaster%20%5BEN%20World%20En5ider%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [EN World EN5ider][en5]
 **[✓]** | Justiciar v2.5 | [View](https://bit.ly/2su8lBd) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Classes/Justiciar%20%5BRoss%20Leiser's%20work%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [Outlandish Adventure Productions](https://dmsguild.com/product/211874)
 **[✓]** | Shadowcaster | [View](https://bit.ly/2mK0GLX) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Classes/Shadowcaster%20%5Blysian09's%20work%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [/u/lysian09 on /r/UnearthedArcana](https://redd.it/8jxi09)
 **[✓]** | Shaman | [View](https://bit.ly/2pWTY6j) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Classes/Shaman%20%5BMichael%20Wolf's%20work%2C%20transcribed%20by%20Derek%2C%20Fourleafclov%2C%20MPMB%5D.js) | Derek, /u/Fourleafclov, [MPMB] | [DMs Guild: Michael Wolf](https://dmsguild.com/product/170851)
@@ -196,6 +197,7 @@ V | Resource | GitHub | Direct Code | Code by | Original
 
 V | Resource | GitHub | Direct Code | Code by | Original
 :---:|---|:---:|:---:|:---:|---
+**[✓]** | Greatest Secrets | [View](https://bit.ly/2MmfKNT) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Feats/Greatest%20Secrets%20%5BEN%20World%20EN5ider%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [EN World EN5ider][en5]
 **[-]** | Heartbreaker | [View](https://bit.ly/2E99Rvy) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Feats/Heartbreaker%20%5Bby%20Derek%5D.js) | Derek | Homebrew by Derek
 
 &nbsp;
@@ -204,7 +206,15 @@ V | Resource | GitHub | Direct Code | Code by | Original
 
 V | Resource | GitHub | Direct Code | Code by | Original
 :---:|---|:---:|:---:|:---:|---
-**[✓]** | Expended Armory & Gear | [View](https://bit.ly/2GVyli2) | [Download](https://github.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/raw/master/additional%20content/Gear/Expanded%20Armory%20%26%20Gear%20%5BJason%20Mendell's%20work%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [DMs Guild: Jason Mendell](https://dmsguild.com/product/174973)
+**[✓]** | Expanded Armory & Gear | [View](https://bit.ly/2GVyli2) | [Download](https://github.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/raw/master/additional%20content/Gear/Expanded%20Armory%20%26%20Gear%20%5BJason%20Mendell's%20work%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [DMs Guild: Jason Mendell](https://dmsguild.com/product/174973)
+
+&nbsp;
+
+##Spells
+
+V | Resource | GitHub | Direct Code | Code by | Original
+:---:|---|:---:|:---:|:---:|---
+**[✓]** | Forbidden Arcana | [View](https://bit.ly/2nBGVXc) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Spells/Erandreg's%20Tome%20of%20Forbidden%20Arcana%20%5BEN%20World%20EN5ider%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [EN World EN5ider][en5]
 
 &nbsp;
 
@@ -217,6 +227,7 @@ Note that dates are written using the ISO-standard year/month/day
 [gview]: https://bit.ly/2JBzFmZ
 [g]: https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Fighter%20-%20Gunslinger%20v1.3%20%5BMatthew%20Mercer's%20work%2C%20transcribed%20by%20many%5D.js
 [gdms]: https://dmsguild.com/product/170778
+[en5]: https://patreon.com/ensider
 
 [MPMB]: https://reddit.com/u/morepurplemorebetter "/u/morepurplemorebetter"
 
