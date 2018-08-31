@@ -32,9 +32,9 @@ These are all-in-one scripts for popular content. For the separate parts, see th
 
 Resource | GitHub | Direct Code | Minified | Last Updated
 ---|:---:|:---:|:---:|:---:
-**All Scripts Combined (Official + UA)** | [View](https://bit.ly/2Go5cvy) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_pub%2BUA.js) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_pub%2BUA.min.js) | 2018/08/10
-**All Official WotC 5e Content** | [View](https://bit.ly/2H1d8QH) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_published.js) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_published.min.js) | 2018/08/10
-**All Unearthed Arcana** | [View](https://bit.ly/2pXHLyl) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_unearthed_arcana.js) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_unearthed_arcana.min.js) | 2018/07/25
+**All Scripts Combined (Official + UA)** | [View](https://bit.ly/2Go5cvy) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_pub%2BUA.js) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_pub%2BUA.min.js) | 2018/08/31
+**All Official WotC 5e Content** | [View](https://bit.ly/2H1d8QH) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_published.js) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_published.min.js) | 2018/08/31
+**All Unearthed Arcana** | [View](https://bit.ly/2pXHLyl) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_unearthed_arcana.js) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_unearthed_arcana.min.js) | 2018/08/22
 
 &nbsp;
 
@@ -63,7 +63,7 @@ Some important notes:
 This is not true for what comes below!    
 Quality will vary, depending on who wrote the code and the original material.*
 
-2. A **✓** in the 'V' (for 'Vetted') column means the script is up to MPMB's rigid standards, while a **-** means it is not.
+2. A **[✓]** in the 'V' (for 'Vetted') column means the script is up to MPMB's rigid standards, while a **[-]** means it is not.
 
 3. Content marked with an asterisk \* is **especially unbalancing** for the game, so beware!
 
@@ -279,6 +279,7 @@ Note that all of these are included in the "All Unearthed Arcana" and "All Scrip
 
 Resource | Released | GitHub | Direct Code | Original
 ---|:---:|:---:|:---:|:---:
+Races of Ravnica | 2018/08/13 | [View](https://bit.ly/2Ms3ziE) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/ua_20180813_Races-of-Ravnica.js) | [Free PDF](https://bit.ly/2Mjxt9S)
 Races of Eberron | 2018/07/23 | [View](https://bit.ly/2mFTCzT) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/ua_20180723_Races-of-Eberron.js) | [Free PDF](https://bit.ly/2mEOJah)
 Giant Soul Sorcerer | 2018/06/11 | [View](https://bit.ly/2JCGb1r) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/ua_20180611_Giant-Soul-Sorcerer.js) | [Free PDF](https://bit.ly/2MuYVh1)
 Centaur and Minotaur | 2018/05/14 | [View](https://bit.ly/2IZj2VC) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/ua_20180514_Centaur-and-Minotaur.js) | [Free PDF](https://bit.ly/2J1wjNB)
