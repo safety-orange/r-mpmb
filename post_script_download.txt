@@ -3,7 +3,7 @@ This post contains the scripts that you will need in order to populate one of MP
 
 &nbsp;
 
-##Version 13##
+#Version 13
 v13 is currently in beta and [available here for subscribers to MPMB's Patreon](https://www.patreon.com/posts/19406992).
 
 Because this version introduces some changes to the import script syntax, I have made [a folder on my GitHub](https://github.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/tree/master/WotC%20material/v13) that has an updated version of all the WotC scripts.
@@ -91,11 +91,13 @@ V | Resource | GitHub | Direct Code | Code by | Original
 **[✓]** | Awakened Undead | [View](https://bit.ly/2ImARtN) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Races/Awakened%20Undead%2C%205%20subraces%20%26%202%20feats%20%5BWalrock%20Homebrew's%20work%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [DMs Guild: Walrock Homebrew](https://dmsguild.com/product/222229)
 **[✓]** | Canim | [View](https://bit.ly/2JdWNMP) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Races/Canim%20%5BCryyl's%20work%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [/u/Cryyl on /r/UnearthedArcana](https://redd.it/45msi6)
 **[✓]** | Dhampir* | [View](https://bit.ly/2pVR95o) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Races/Dhampir%20%5BDanDwiki%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [DanDwiki*](https://bit.ly/2Jj7kCQ "Basically everything from DanDwiki is atrociously unbalanced!")
+**[✓]** | Doppelganger | [View](https://bit.ly/2PGCQ3C) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Races/Doppelganger%20%5BD%26D%20Beyond%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [D&D Beyond](https://bit.ly/2qvxnyn)
 **[✓]** | Gnoll | [View](https://bit.ly/2McxFGS) | [Download](https://github.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/raw/master/Homebrew/reddit_20180203_Tome-of-Monstrous-Races.js) | /u/sea__ & [SO] | [/u/revlid on /r/UnearthedArcana](https://redd.it/7uzdvb "Tome of Monstrous Races")
 **[✓]** | Grung | [View](https://bit.ly/2M90ogG) | [Download](https://github.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/raw/master/Homebrew/dmsguild_20171011_One-Grung-Above.js) | /u/GoldenSnurp & [SO] | [DMs Guild: Christopher Lindsay](https://dmsguild.com/product/223738 "One Grung Above")
 **[✓]** | Kitsune | [View](https://bit.ly/2pVRFjQ) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Races/Kitsune%20%5BMarshall%20Miller's%20work%2C%20transcribed%20by%20Murray%5D.js) | Murray & [MPMB] | [DMs Guild: Marshall Miller](https://dmsguild.com/product/171361)
 **[✓]** | Merfolk | [View](https://bit.ly/2pWwfmJ) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Races/Merfolk%2C%20with%204%20subraces%20%5Bby%20Sarixis%5D.js) | Sarixis | Homebrew by Sarixis
 **[✓]** | Merfolk Erectus | [View](https://bit.ly/2HxjIP3) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Races/Merfolk%20Erectus%20%5Bby%20Snutze%5D.js) | Snutze | Homebrew by Snutze
+**[✓]** | Satyr | [View](https://bit.ly/2qxH27E) | [Download](https://github.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/raw/master/additional%20content/Races/Satyr%20%5Bu_berklain182's%20work%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [/u/berklain182 on /r/UnearthedArcana](https://redd.it/43ejab)
 **[✓]** | Shade | [View](https://bit.ly/2Eb80q3) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Races/Shade%2C%20with%202%20subraces%20%5BJeremy%20Forbing's%20work%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [DMs Guild: Jeremy Forbing](https://dmsguild.com/product/208791)
 **[✓]** | Sojourner Dwarf | [View](https://bit.ly/2EaV9nT) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Races/Sojourner%20Dwarf%20%5BGoodman%20Games'%20work%2C%20transcribed%20by%20James%20Bowman%5D.js) | James B | [DMs Guild: Goodman Games](https://dmsguild.com/product/132657)
 **[✓]** | Soulbound | [View](https://bit.ly/2pWIXC1) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Races/Soulbound%20%5BGreypilgrim333's%20work%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [/u/Greypilgrim333 on /r/UnearthedArcana](https://redd.it/4wsioc)
@@ -159,8 +161,10 @@ V | Resource | GitHub | Direct Code | Code by | Original
 | 
 | 
 | | **`Paladin`**
+**[✓]** | Oath of the Hammer | [View](https://bit.ly/2qxVL2y) | [Download](https://github.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/raw/master/additional%20content/Subclasses/Paladin%20-%20Hammer%20of%20Moradin%20%5BMFoV%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [Middle Finger of Vecna](https://bit.ly/2PH1S2p)
 **[✓]** | Oath of Unyielding | [View](https://bit.ly/2IjHGfU) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Paladin%20-%20Oath%20of%20Unyielding%20%5BBoltNine's%20work%2C%20transcribed%20by%20Howard%5D.js) | Howard | [BoltNine Homebrew](https://bit.ly/2EkADBi)
 **[✓]** | Oath of Weave* | [View](https://bit.ly/2pXTP2p) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Paladin%20-%20Oath%20of%20Weave%20%5BDMs%20Guild%2C%20transcribed%20by%20MPMB%5D.js) | [MPMB] | [DMs Guild: Jeremy Forbing & Leo David Pakirdjian*][jflp]
+| 
 | 
 | | **`Ranger`**
 **[✓]** | Corsair | [View](https://bit.ly/2pWXqOj) | [Download](https://raw.githubusercontent.com/morepurplemorebetter/MPMBs-Character-Record-Sheet/master/additional%20content/Subclasses/Ranger%20-%20Corsair%20%5Bby%20Wizzard%5D.js) | Wizzard | Homebrew by Wizzard
@@ -277,8 +281,6 @@ Players Handbook | 2014/08/19 | [View](https://bit.ly/2pWZK86) | [Download](http
 
 Note that dates are written using the ISO-standard year/month/day
 
-
-
 >>>>>>>> COMMENT Unearthed Arcana 2/2 <<<<<<<<< 
 
 #Unearthed Arcana (2/2)
@@ -286,6 +288,7 @@ Note that all of these are included in the "All Unearthed Arcana" and "All Scrip
 
 Resource | Released | GitHub | Direct Code | Original
 ---|:---:|:---:|:---:|:---:
+Dragonmarks | 2018/09/10 | [View](https://bit.ly/2quB2wv) | [Download](https://github.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/raw/master/WotC%20material/ua_20180910_Dragonmarks.js) | [Free PDF](https://bit.ly/2PG2Tba)
 Races of Ravnica | 2018/08/13 | [View](https://bit.ly/2Ms3ziE) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/ua_20180813_Races-of-Ravnica.js) | [Free PDF](https://bit.ly/2Mjxt9S)
 Races of Eberron | 2018/07/23 | [View](https://bit.ly/2mFTCzT) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/ua_20180723_Races-of-Eberron.js) | [Free PDF](https://bit.ly/2mEOJah)
 Giant Soul Sorcerer | 2018/06/11 | [View](https://bit.ly/2JCGb1r) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/ua_20180611_Giant-Soul-Sorcerer.js) | [Free PDF](https://bit.ly/2MuYVh1)
@@ -343,3 +346,12 @@ Eberron | 2015/02/02 | [View](https://bit.ly/2pWu4Q5) | [Download](https://raw.g
 &nbsp;
 
 Note that dates are written using the ISO-standard year/month/day
+
+>>>>>>>> COMMENT Changelog <<<<<<<<<
+
+#Changelog
+The table below lists the addition of new entries (linked script) to the main post and comments. It does not list changes in the scripts, as you can find that on the linked GitHub pages.
+
+Date | Change
+--- | ---
+2018/11/06 | Addition of **Doppelganger**, **Satyr**, **Oath of the Hammer**, and link to v13 GitHub folder
