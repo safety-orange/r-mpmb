@@ -60,7 +60,9 @@ Note that:
 
 **Q:** Where can I find the SRD content? It's not listed in the sticky!
 
-*A:** Since the SRD content is included by default in the sheets, they are not included in the content tables. To view SRD specific information please visit [MPMB's Github Repo](https://github.com/morepurplemorebetter/MPMBs-Character-Record-Sheet).
+**A:** Since the SRD content is included by default in the sheets, they are not included in the content tables. To view SRD specific information please visit [MPMB's Github Repo](https://github.com/morepurplemorebetter/MPMBs-Character-Record-Sheet).
+
+&nbsp;
 
 **Q:**  What is the difference between the 'Printer Friendly' and the 'Printer Friendly - Redesign' sheets?
 
