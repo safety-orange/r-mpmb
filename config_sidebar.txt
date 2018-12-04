@@ -57,9 +57,11 @@ The sheet only comes with SRD content. Visit [the sticky post](https://redd.it/9
 
 To share or get help with a script you made, please follow the [subreddit rules](https://www.reddit.com/r/mpmb/about/rules/) and post a **link to the script*** using a code sharing website:
 
-* **[Github Gist](https://gist.github.com/)**;
+* **[PrivateBin](https://privatebin.net/)**;
 
 * **[Pastebin](https://pastebin.com/)**;
+
+* **[Github Gist](https://gist.github.com/)**;
 
 * or another snippet sharing service that uses JavaScript syntax highlighting.
 
@@ -75,7 +77,7 @@ Also take note of the following:
 
 &nbsp;
 
-**Any sections of code less than five (5) lines may be included in a post. Anything longer must be posted using a third party snippet sharing service or will risk being removed.*
+**Any sections of code less than five (5) lines may be included in a post. Anything longer must be posted using a third party snippet sharing service or will automatically be removed.*
 
 &nbsp;
 
