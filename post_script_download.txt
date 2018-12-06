@@ -39,9 +39,9 @@ These are all-in-one scripts for popular content. For the separate parts, see th
 
 Resource | GitHub | Direct Code | Minified | Last Updated
 ---|:---:|:---:|:---:|:---:
-**All Scripts Combined (Official + UA)** | [View](https://bit.ly/2Go5cvy) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_pub%2BUA.js) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_pub%2BUA.min.js) | 2018/11/21
-**All Official WotC 5e Content** | [View](https://bit.ly/2H1d8QH) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_published.js) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_published.min.js) | 2018/11/21
-**All Unearthed Arcana** | [View](https://bit.ly/2pXHLyl) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_unearthed_arcana.js) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_unearthed_arcana.min.js) | 2018/11/21
+**All Scripts Combined (Official + UA)** | [View](https://bit.ly/2Go5cvy) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_pub%2BUA.js) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_pub%2BUA.min.js) | 2018/12/06
+**All Official WotC 5e Content** | [View](https://bit.ly/2H1d8QH) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_published.js) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_published.min.js) | 2018/12/06
+**All Unearthed Arcana** | [View](https://bit.ly/2pXHLyl) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_unearthed_arcana.js) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_unearthed_arcana.min.js) | 2018/12/06
 
 &nbsp;
 
@@ -261,6 +261,7 @@ Note that all of these are included in the "All Official WotC 5e Content" and "A
 
 Resource | Released | GitHub | Direct Code | Original
 ---|:---:|:---:|:---:|:---:
+Guildmasters' Guide to Ravnica | 2018/11/20 | [View](https://bit.ly/2rnbAt6) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/pub_20181120_GGtR.js) | [Book](https://bit.ly/2rq7ccZ)
 Wayfinder's Guide to Eberron | 2018/07/23 | [View](https://bit.ly/2mGBiqn) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/pub_20180723_WGtE.js) | [DMs Guild](https://bit.ly/2Ly3qtC)
 Mordenkainen's Tome of Foes | 2018/05/29 | [View](https://bit.ly/2khO8Kq) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/pub_20180529_MToF.js) | [Book](https://bit.ly/2IH50sG) 
 Xanathar's Guide to Everything | 2017/11/21 | [View](https://bit.ly/2Eb6owC) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/pub_20171121_XGtE.js) | [Book](https://bit.ly/2IlzNGy)
@@ -357,5 +358,6 @@ The table below lists the addition of new entries (linked script) to the main po
 
 Date | Change
 --- | ---
+2018/12/06 | Addition of **Guildmasters' Guide to Ravnica** and incorporation of the **November 2018 PHB errata**
 2018/11/21 | Addition of **Warmage (v13 only!)**, **Improved Artificer (v13 only!)**, and **Hedgehog Folk (v13 only!)**
 2018/11/06 | Addition of **Doppelganger**, **Satyr**, **Oath of the Hammer**, and link to v13 GitHub folder
