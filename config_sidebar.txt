@@ -29,7 +29,7 @@ Filter post by flair:
 
 ####Current Sheet Version
 #####Release: v12.999
-#####Beta: v13beta4
+#####Beta: v13beta6
 
 &nbsp;
 
@@ -61,7 +61,7 @@ To share or get help with a script you made, please follow the [subreddit rules]
 
 * **[Pastebin](https://pastebin.com/)**;
 
-* **[Github Gist](https://gist.github.com/)**;
+* **[Github Gist](https://gist.github.com/)** ^[requires ^account];
 
 * or another snippet sharing service that uses JavaScript syntax highlighting.
 
