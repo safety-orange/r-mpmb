@@ -39,9 +39,9 @@ These are all-in-one scripts for popular content. For the separate parts, see th
 
 Resource | GitHub | Direct Code | Minified | Last Updated
 ---|:---:|:---:|:---:|:---:
-**All Scripts Combined (Official + UA)** | [View](https://bit.ly/2Go5cvy) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_pub%2BUA.js) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_pub%2BUA.min.js) | 2018/12/06
-**All Official WotC 5e Content** | [View](https://bit.ly/2H1d8QH) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_published.js) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_published.min.js) | 2018/12/06
-**All Unearthed Arcana** | [View](https://bit.ly/2pXHLyl) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_unearthed_arcana.js) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_unearthed_arcana.min.js) | 2018/12/06
+**All Scripts Combined (Official + UA)** | [View](https://bit.ly/2Go5cvy) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_pub%2BUA.js) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_pub%2BUA.min.js) | 2018/12/30
+**All Official WotC 5e Content** | [View](https://bit.ly/2H1d8QH) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_published.js) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_published.min.js) | 2018/12/30
+**All Unearthed Arcana** | [View](https://bit.ly/2pXHLyl) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_unearthed_arcana.js) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_unearthed_arcana.min.js) | 2018/12/30
 
 &nbsp;
 
@@ -257,7 +257,7 @@ Note that dates are written using the ISO-standard year/month/day
 >>>>>>>> COMMENT Official WotC 5e Content <<<<<<<<< 
 
 #Official WotC 5e Content
-Note that all of these are included in the "All Official WotC 5e Content" and "All Scripts Combined \(Official + UA\)" scripts above.
+Note that all of these are included in the "**All Official WotC 5e Content**" and "**All Scripts Combined \(Official + UA\)**" scripts above.
 
 Resource | Released | GitHub | Direct Code | Original
 ---|:---:|:---:|:---:|:---:
@@ -267,7 +267,7 @@ Mordenkainen's Tome of Foes | 2018/05/29 | [View](https://bit.ly/2khO8Kq) | [Dow
 Xanathar's Guide to Everything | 2017/11/21 | [View](https://bit.ly/2Eb6owC) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/pub_20171121_XGtE.js) | [Book](https://bit.ly/2IlzNGy)
 Tomb of Annihilation | 2017/09/19 | [View](https://bit.ly/2GqxhhW) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/pub_20170919_ToA.js) | [Book](https://bit.ly/2pWZw0r)
 The Tortle Package | 2017/09/15 | [View](https://bit.ly/2pWNKTZ) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/pub_20170915_Tortle.js) | [DMs Guild](https://bit.ly/2pZNovE)
-Tales of the Yawning Portal | 2017/04/04 | [View](https://bit.ly/2pWJhAA) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/pub_20170404_TotYP.js) | [Book](https://bit.ly/2pWqXrf)
+Tales from the Yawning Portal | 2017/04/04 | [View](https://bit.ly/2ETTyHG) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/pub_20170404_TftYP.js) | [Book](https://bit.ly/2pWqXrf)
 Volo's Guide to Monsters | 2016/11/15 | [View](https://bit.ly/2pVkpKj) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/pub_20161115_VGtM.js) | [Book](https://bit.ly/2EbOppw)
 Storm King's Thunder | 2016/09/06 | [View](https://bit.ly/2Ih39WP) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/pub_20160906_SKT.js) | [Book](https://bit.ly/2GKPuKp)
 Curse of Strahd | 2016/03/15 | [View](https://bit.ly/2Il2aVH) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/pub_20160315_CoS.js) | [Free PDF](https://bit.ly/2pXzJGg)
@@ -288,7 +288,7 @@ Note that dates are written using the ISO-standard year/month/day
 >>>>>>>> COMMENT Unearthed Arcana 2/2 <<<<<<<<< 
 
 #Unearthed Arcana (2/2)
-Note that all of these are included in the "All Unearthed Arcana" and "All Scripts Combined \(Official + UA\)" scripts above.
+Note that all of these are included in the "**All Unearthed Arcana**" and "**All Scripts Combined \(Official + UA\)**" scripts above.
 
 Resource | Released | GitHub | Direct Code | Original
 ---|:---:|:---:|:---:|:---:
@@ -322,7 +322,7 @@ Note that dates are written using the ISO-standard year/month/day
 >>>>>>>> COMMENT Unearthed Arcana 1/2 <<<<<<<<<
 
 #Unearthed Arcana (1/2)
-Note that all of these are included in the "All Unearthed Arcana" and "All Scripts Combined \(Official + UA\)" scripts above.
+Note that all of these are included in the "**All Unearthed Arcana**" and "**All Scripts Combined \(Official + UA\)**" scripts above.
 
 Resource | Released | GitHub | Direct Code | Original
 ---|:---:|:---:|:---:|:---:
@@ -358,6 +358,6 @@ The table below lists the addition of new entries (linked script) to the main po
 
 Date | Change
 --- | ---
-2018/12/06 | Addition of **Guildmasters' Guide to Ravnica** and incorporation of the **November 2018 PHB errata**
+2018/12/12 | Addition of **Guildmasters' Guide to Ravnica** and incorporation of the **November 2018 PHB errata**
 2018/11/21 | Addition of **Warmage (v13 only!)**, **Improved Artificer (v13 only!)**, and **Hedgehog Folk (v13 only!)**
 2018/11/06 | Addition of **Doppelganger**, **Satyr**, **Oath of the Hammer**, and link to v13 GitHub folder
