@@ -6,7 +6,7 @@ This post contains the scripts that you will need in order to populate one of MP
 #Version 13
 v13 is currently in beta and [available here for subscribers to MPMB's Patreon](https://www.patreon.com/posts/19406992).
 
-Because this version introduces some changes to the import script syntax, I have made [a folder on my GitHub](https://github.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/tree/master/WotC%20material/v13) that has an updated version of all the WotC scripts.
+Because this version introduces some changes to the import script syntax, I have made [a folder on my GitHub](https://github.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/tree/master/WotC%20material/v13) which has all the WotC scripts that adhere to the latest v13 syntax.
 
 &nbsp;
 
@@ -39,9 +39,9 @@ These are all-in-one scripts for popular content. For the separate parts, see th
 
 Resource | GitHub | Direct Code | Minified | Last Updated
 ---|:---:|:---:|:---:|:---:
-**All Scripts Combined (Official + UA)** | [View](https://bit.ly/2Go5cvy) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_pub%2BUA.js) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_pub%2BUA.min.js) | 2018/12/30
-**All Official WotC 5e Content** | [View](https://bit.ly/2H1d8QH) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_published.js) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_published.min.js) | 2018/12/30
-**All Unearthed Arcana** | [View](https://bit.ly/2pXHLyl) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_unearthed_arcana.js) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_unearthed_arcana.min.js) | 2018/12/30
+**All Scripts Combined (Official + UA)** | [View](https://bit.ly/2Go5cvy) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_pub%2BUA.js) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_pub%2BUA.min.js) | 2019/02/27
+**All Official WotC 5e Content** | [View](https://bit.ly/2H1d8QH) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_published.js) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_published.min.js) | 2019/02/27
+**All Unearthed Arcana** | [View](https://bit.ly/2pXHLyl) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_unearthed_arcana.js) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_unearthed_arcana.min.js) | 2019/02/27
 
 &nbsp;
 
