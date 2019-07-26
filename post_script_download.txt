@@ -39,9 +39,9 @@ These are all-in-one scripts for popular content. For the separate parts, see th
 
 Resource | GitHub | Direct Code | Minified | Last Updated
 ---|:---:|:---:|:---:|:---:
-**All Scripts Combined (Official + UA)** | [View](https://bit.ly/2Go5cvy) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_pub%2BUA.js) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_pub%2BUA.min.js) | 2019/02/27
-**All Official WotC 5e Content** | [View](https://bit.ly/2H1d8QH) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_published.js) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_published.min.js) | 2019/02/27
-**All Unearthed Arcana** | [View](https://bit.ly/2pXHLyl) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_unearthed_arcana.js) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_unearthed_arcana.min.js) | 2019/02/27
+**All Scripts Combined (Official + UA)** | [View](https://bit.ly/2Go5cvy) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_pub%2BUA.js) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_pub%2BUA.min.js) | 2019/07/26
+**All Official WotC 5e Content** | [View](https://bit.ly/2H1d8QH) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_published.js) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_published.min.js) | 2019/07/26
+**All Unearthed Arcana** | [View](https://bit.ly/2pXHLyl) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_unearthed_arcana.js) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/all_WotC_unearthed_arcana.min.js) | 2019/07/26
 
 &nbsp;
 
@@ -52,6 +52,7 @@ Resource | GitHub | Direct Code | Minified | Last Updated
 
 Resource | Released | GitHub | Direct Code | Original
 ---|:---:|:---:|:---:|:---:
+Dominaria (v13 only) | 2018/07/31 | [View](https://bit.ly/2HN2E9v) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/v13/ps_20180731_Dominaria.js) | [Free PDF](https://bit.ly/30WEGQJ)
 Ixalan | 2018/01/09 | [View](https://bit.ly/2pV5HlZ) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/ps_20180109_Ixalan.js) | [Free PDF](https://bit.ly/2q7FOzs)
 Amonkhet | 2017/07/05 | [View](https://bit.ly/2pVBkfY) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/ps_20170705_Amonkhet.js) | [Free PDF](https://bit.ly/2GULO93)
 Kaladesh | 2017/02/16 | [View](https://bit.ly/2pXNpBh) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/ps_20170216_Kaladesh.js) | [Free PDF](https://bit.ly/2GUM4F3)
@@ -261,6 +262,8 @@ Note that all of these are included in the "**All Official WotC 5e Content**" an
 
 Resource | Released | GitHub | Direct Code | Original
 ---|:---:|:---:|:---:|:---:
+Acquisitions Incorporated | 2019/06/18 | [View](https://bit.ly/2ycWnyf) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/pub_20190618_AcqInc.js) | [Book](https://bit.ly/2YlCX9a)
+Ghosts of Saltmarsh | 2019/05/21 | [View](https://bit.ly/2JR7aWP) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/pub_20190521_GoS.js) | [Book](https://bit.ly/2HQzsi5)
 Guildmasters' Guide to Ravnica | 2018/11/20 | [View](https://bit.ly/2rnbAt6) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/pub_20181120_GGtR.js) | [Book](https://bit.ly/2rq7ccZ)
 Wayfinder's Guide to Eberron | 2018/07/23 | [View](https://bit.ly/2mGBiqn) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/pub_20180723_WGtE.js) | [DMs Guild](https://bit.ly/2Ly3qtC)
 Mordenkainen's Tome of Foes | 2018/05/29 | [View](https://bit.ly/2khO8Kq) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/pub_20180529_MToF.js) | [Book](https://bit.ly/2IH50sG) 
@@ -292,6 +295,8 @@ Note that all of these are included in the "**All Unearthed Arcana**" and "**All
 
 Resource | Released | GitHub | Direct Code | Original
 ---|:---:|:---:|:---:|:---:
+Artificer 2019v2 (v13 only) | 2019/05/14 | [View](https://bit.ly/2HOG00E) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/v13/ua_20190514_Artificer.js) | [Free PDF](https://bit.ly/2JOAuwX)
+Artificer 2019 (v13 only) | 2019/02/28 | [View](https://bit.ly/2HOiwbT) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/v13/ua_20190228_Artificer_dupl.js) | [Free PDF](https://bit.ly/2HNCaVm)
 Dragonmarks | 2018/09/10 | [View](https://bit.ly/2quB2wv) | [Download](https://github.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/raw/master/WotC%20material/ua_20180910_Dragonmarks.js) | [Free PDF](https://bit.ly/2PG2Tba)
 Races of Ravnica | 2018/08/13 | [View](https://bit.ly/2Ms3ziE) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/ua_20180813_Races-of-Ravnica.js) | [Free PDF](https://bit.ly/2Mjxt9S)
 Races of Eberron | 2018/07/23 | [View](https://bit.ly/2mFTCzT) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/ua_20180723_Races-of-Eberron.js) | [Free PDF](https://bit.ly/2mEOJah)
@@ -358,6 +363,8 @@ The table below lists the addition of new entries (linked script) to the main po
 
 Date | Change
 --- | ---
+2019/07/26 | Addition of **Acquisitions Incorporated**
+2019/05/31 | Addition of **Ghosts of Saltmarsh**
 2018/12/12 | Addition of **Guildmasters' Guide to Ravnica** and incorporation of the **November 2018 PHB errata**
 2018/11/21 | Addition of **Warmage (v13 only!)**, **Improved Artificer (v13 only!)**, and **Hedgehog Folk (v13 only!)**
 2018/11/06 | Addition of **Doppelganger**, **Satyr**, **Oath of the Hammer**, and link to v13 GitHub folder
