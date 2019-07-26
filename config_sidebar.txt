@@ -15,6 +15,10 @@ Useful links:
 
 &nbsp;
 
+##[Join us on Discord!](https://discord.gg/CnCuxyV)
+
+&nbsp;
+
 Filter post by flair:
 
 * **[Hide [Script Request]](https://www.reddit.com/r/mpmb/search?sort=new&restrict_sr=on&q=NOT+flair%3AScript%2BRequest)**
@@ -29,7 +33,7 @@ Filter post by flair:
 
 ####Current Sheet Version
 #####Release: v12.999
-#####Beta: v13beta8
+#####Beta: v13beta11
 
 &nbsp;
 
