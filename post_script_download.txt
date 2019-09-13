@@ -295,6 +295,7 @@ Note that all of these are included in the "**All Unearthed Arcana**" and "**All
 
 Resource | Released | GitHub | Direct Code | Original
 ---|:---:|:---:|:---:|:---:
+Sorcerer and Warlock (v13 only) | 2019/09/05 | [View](https://bit.ly/2NZ55cx) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/v13/ua_20190905_Sorcerer-and-Warlock.js) | [Free PDF](https://bit.ly/2Lvddjf)
 Barbarian and Monk (v13 only) | 2019/08/15 | [View](https://bit.ly/33NK1eC) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/v13/ua_20190815_Barbarian-and-Monk.js) | [Free PDF](https://bit.ly/3245w9t)
 Artificer 2019v2 (v13 only) | 2019/05/14 | [View](https://bit.ly/2HOG00E) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/v13/ua_20190514_Artificer.js) | [Free PDF](https://bit.ly/2JOAuwX)
 Artificer 2019 (v13 only) | 2019/02/28 | [View](https://bit.ly/2HOiwbT) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/v13/ua_20190228_Artificer_dupl.js) | [Free PDF](https://bit.ly/2HNCaVm)
