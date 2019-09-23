@@ -262,6 +262,7 @@ Note that all of these are included in the "**All Official WotC 5e Content**" an
 
 Resource | Released | GitHub | Direct Code | Original
 ---|:---:|:---:|:---:|:---:
+Baldur's Gate: Descent into Avernus (v13 only) | 2019/09/17 | [View](https://bit.ly/2kXEkJr) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/v13/pub_20190917_DiA.js) | [Book](https://bit.ly/2Mb3KwB)
 Acquisitions Incorporated | 2019/06/18 | [View](https://bit.ly/2ycWnyf) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/pub_20190618_AcqInc.js) | [Book](https://bit.ly/2YlCX9a)
 Ghosts of Saltmarsh | 2019/05/21 | [View](https://bit.ly/2JR7aWP) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/pub_20190521_GoS.js) | [Book](https://bit.ly/2HQzsi5)
 Guildmasters' Guide to Ravnica | 2018/11/20 | [View](https://bit.ly/2rnbAt6) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/pub_20181120_GGtR.js) | [Book](https://bit.ly/2rq7ccZ)
@@ -295,6 +296,7 @@ Note that all of these are included in the "**All Unearthed Arcana**" and "**All
 
 Resource | Released | GitHub | Direct Code | Original
 ---|:---:|:---:|:---:|:---:
+Bard and Paladin (v13 only) | 2019/09/18 | [View](https://bit.ly/2LJg2xf) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/v13/ua_20190918_Bard-and-Paladin.js) | [Free PDF](https://bit.ly/2M8TWmX)
 Sorcerer and Warlock (v13 only) | 2019/09/05 | [View](https://bit.ly/2NZ55cx) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/v13/ua_20190905_Sorcerer-and-Warlock.js) | [Free PDF](https://bit.ly/2Lvddjf)
 Barbarian and Monk (v13 only) | 2019/08/15 | [View](https://bit.ly/33NK1eC) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/v13/ua_20190815_Barbarian-and-Monk.js) | [Free PDF](https://bit.ly/3245w9t)
 Artificer 2019v2 (v13 only) | 2019/05/14 | [View](https://bit.ly/2HOG00E) | [Download](https://raw.githubusercontent.com/safety-orange/Imports-for-MPMB-s-Character-Sheet/master/WotC%20material/v13/ua_20190514_Artificer.js) | [Free PDF](https://bit.ly/2JOAuwX)
@@ -365,6 +367,7 @@ The table below lists the addition of new entries (linked script) to the main po
 
 Date | Change
 --- | ---
+2019/09/23 | Addition of **Baldur's Gate: Descent into Avernus (v13 only!)** and **Unearthed Arcana: Bard and Paladin (v13 only!)**
 2019/08/21 | Addition of **Unearthed Arcana: Barbarian and Monk (v13 only!)**
 2019/07/26 | Addition of **Acquisitions Incorporated**
 2019/05/31 | Addition of **Ghosts of Saltmarsh**
